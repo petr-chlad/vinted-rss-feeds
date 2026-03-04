@@ -76424,7 +76424,8 @@
     "price": "252,75 Kč",
     "img": "https://images1.vinted.net/t/05_017f8_LTEVeGVfsuiWuHKssVkCqn3s/310x430/1772570872.webp?s=7000333f6aee8c5ce4e4aad7c37675947188148d",
     "datum_pridani": "2026-03-03T20:49:10.008904+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308660564-lego-mix-super-mario?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308660564-lego-mix-super-mario?referrer=catalog",
@@ -76447,7 +76448,8 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/03_01d0c_VCKYLGkHygHaYBijgqZBwiSx/310x430/1772569841.webp?s=c33210fb1f0d57c2dd080fb8f903431531ff10a6",
     "datum_pridani": "2026-03-03T20:49:10.008904+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308509887-lego-star-wars-75344-mikromysliwiec-kosmiczny-boby-fetta?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308509887-lego-star-wars-75344-mikromysliwiec-kosmiczny-boby-fetta?referrer=catalog",
@@ -76458,7 +76460,8 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/05_012c5_ATkhWz387vBi7kfq1UBvDtCk/310x430/1772569575.webp?s=a9c21c6e0cd6609fa7c77db4b87b5ed881c7faea",
     "datum_pridani": "2026-03-03T20:49:10.008904+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308495527-lego-r7-a7-astromech-droid?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308495527-lego-r7-a7-astromech-droid?referrer=catalog",
@@ -76469,7 +76472,8 @@
     "price": "252,75 Kč",
     "img": "https://images1.vinted.net/t/04_01944_qhrmrbH5LUCjKWMFhLmiwf3B/310x430/1772569460.webp?s=556e8c6f5f5666d54882b26f2f82fd9eb802d3d9",
     "datum_pridani": "2026-03-03T20:49:10.008904+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308494016-lego-city-nekompletni?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308494016-lego-city-nekompletni?referrer=catalog",
@@ -76481,7 +76485,7 @@
     "img": "https://images1.vinted.net/t/05_02031_Fqg5WyxSrzSRx1o1XjJz7JjY/310x430/1772569448.webp?s=37898780ede1fff7c8463e61a9e9fcd294277eef",
     "datum_pridani": "2026-03-03T20:49:10.008904+00:00",
     "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308490537-lego-nowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308490537-lego-nowe?referrer=catalog",
@@ -76624,7 +76628,8 @@
     "price": "201,05 Kč",
     "img": "https://images1.vinted.net/t/05_0036c_sRGd8YbcLiDQNTmo44P35tn6/310x430/1772574119.webp?s=59e73aa143041bf7193fb90e8c0a21fdf964958a",
     "datum_pridani": "2026-03-03T21:44:31.688497+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308938834-lego-juniors-10683-roboty-drogowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308938834-lego-juniors-10683-roboty-drogowe?referrer=catalog",
@@ -76635,7 +76640,8 @@
     "price": "201,05 Kč",
     "img": "https://images1.vinted.net/t/01_01472_sYZuzrqgwpn3dmVo98fAo9Bh/310x430/1772573609.webp?s=d1f10a6f62e6d3c22311de87040a1d91dec6aea1",
     "datum_pridani": "2026-03-03T21:44:31.688497+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308915036-duplo-kone?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308915036-duplo-kone?referrer=catalog",
@@ -76682,7 +76688,8 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/05_0149b_D4Y7ZeSn6chGw5GM2YZuiCJG/310x430/1772571270.webp?s=46ba20e019bb2309c5ac39d42a4868657f2424e1",
     "datum_pridani": "2026-03-03T21:44:31.688497+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308703178-lego-nowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308703178-lego-nowe?referrer=catalog",
@@ -76693,7 +76700,8 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/01_00692_YH7A8VT6U9vkvmFyzKzTvcie/310x430/1772571225.webp?s=22ee0dce0c4ddd064bbb75cfbc2fc55bf220514e",
     "datum_pridani": "2026-03-03T21:44:31.688497+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308697070-lego-nowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308697070-lego-nowe?referrer=catalog",
@@ -76716,7 +76724,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_00673_vPeMLqZ9s1G1ExzqSde15QFr/310x430/1772576875.webp?s=5d523eaf4278d3c4845a3dd350c96fd60f428bf0",
     "datum_pridani": "2026-03-03T22:41:50.747936+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309133017-lego-figurki-spiderman-miles-morales-venom?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309133017-lego-figurki-spiderman-miles-morales-venom?referrer=catalog",
@@ -76727,7 +76735,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_01257_7yFRMUTr2QugvBZjysA8tsc5/310x430/1772576188.webp?s=17520032eb42c07ba7652fe3d164c424c5645264",
     "datum_pridani": "2026-03-03T22:41:50.747936+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309117472-lego-7625-indiana-jones-iaj017-russian-guard-2-figurki-ludziki-7626?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309117472-lego-7625-indiana-jones-iaj017-russian-guard-2-figurki-ludziki-7626?referrer=catalog",
@@ -76762,7 +76770,8 @@
     "price": "252,75 Kč",
     "img": "https://images1.vinted.net/t/01_017ad_EkfH6F5r1MnTPd2eZT6ArZ2Z/310x430/1772575484.webp?s=f7fba17b6ce4a87e06f27c6300408e7ff887a2b1",
     "datum_pridani": "2026-03-03T22:41:50.747936+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8309048580-klocki-lego-creator-3w1-31377-zolw-i-kwiat-lilii-wodnej?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309048580-klocki-lego-creator-3w1-31377-zolw-i-kwiat-lilii-wodnej?referrer=catalog",
@@ -76785,7 +76794,8 @@
     "price": "200,99 Kč",
     "img": "https://images1.vinted.net/t/06_008b3_W9naLfYztLVY5zhYAnQ4pxnz/310x430/1772574264.webp?s=08fafd27e1bf0d386414490a7c3e0ce4c5717eaa",
     "datum_pridani": "2026-03-03T22:41:50.747936+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8308940726-jest-to-figurka-lego-sw-l3-go-w-100-orginalna?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308940726-jest-to-figurka-lego-sw-l3-go-w-100-orginalna?referrer=catalog",
@@ -76796,7 +76806,8 @@
     "price": "258,43 Kč",
     "img": "https://images1.vinted.net/t/01_02417_A6PVtUXMHWfLSDS5guLPfTBw/310x430/1772573631.webp?s=071e6499216da56e4dfcd6016be1a51d79842792",
     "datum_pridani": "2026-03-03T22:41:50.747936+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8309303086-lego-cars-auta-8206-luigi-guido?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309303086-lego-cars-auta-8206-luigi-guido?referrer=catalog",
@@ -76819,7 +76830,7 @@
     "price": "241,26 Kč",
     "img": "https://images1.vinted.net/t/04_003f4_1b1Ja92BZ71eVFvMihfL44ad/310x430/1772579176.webp?s=73fd415fa5b5b82f301e61174a3cff87092c5aad",
     "datum_pridani": "2026-03-03T23:38:06.297261+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8308708990-vampire-knight-col25-3?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308708990-vampire-knight-col25-3?referrer=catalog",
@@ -76830,7 +76841,8 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/05_0002d_fU1QgrphJCWAnPJAeVcrRc9A/310x430/1772579071.webp?s=6127ca449a1c9ae713c2c4820d059ef1740301ef",
     "datum_pridani": "2026-03-03T23:38:06.297261+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8306413539-boba-fett-sw0396?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8306413539-boba-fett-sw0396?referrer=catalog",
@@ -76841,7 +76853,7 @@
     "price": "247,00 Kč",
     "img": "https://images1.vinted.net/t/04_00c24_D9rQsgVAHewn1o5aFiHaEPY6/310x430/1772578580.webp?s=17346f943783ba1e569381e3d93fb6db09a8216a",
     "datum_pridani": "2026-03-03T23:38:06.297261+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8306390379-boba-fett-sw1274?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8306390379-boba-fett-sw1274?referrer=catalog",
@@ -76852,7 +76864,7 @@
     "price": "247,00 Kč",
     "img": "https://images1.vinted.net/t/06_00da0_2PdJaJv2V9pB9FPfxwe3vYeo/310x430/1772578481.webp?s=d5ce65ccc324205479de8db6005e11241c1c89f2",
     "datum_pridani": "2026-03-03T23:38:06.297261+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8306336271-paz-vizsla-sw1341?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8306336271-paz-vizsla-sw1341?referrer=catalog",
@@ -76863,7 +76875,7 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/06_004c0_jA3CHzfX83FSdhnUcT4Qd2nN/310x430/1772578395.webp?s=9bb7040575d9f8833aa9491187b7a632d59a5136",
     "datum_pridani": "2026-03-03T23:38:06.297261+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8306141827-bo-katan-kryze-sw1163?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8306141827-bo-katan-kryze-sw1163?referrer=catalog",
@@ -76898,7 +76910,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/01_01368_wtWP9rwqEHLRGjym2j7mk7n9/310x430/1772584356.webp?s=70629236291c79471b252a82cf9a45b4c01e6d7e",
     "datum_pridani": "2026-03-04T02:45:38.164319+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309506520-legor-40675-brickheadz-dowodca-klonow-cody?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309506520-legor-40675-brickheadz-dowodca-klonow-cody?referrer=catalog",
@@ -76909,7 +76921,7 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/05_00ea5_TY3W61h4d4RTMUfK2HEJ7mg7/310x430/1772603366.webp?s=434f56dcf1164072f0b9148422068dcaf18fd363",
     "datum_pridani": "2026-03-04T05:56:00.184208+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309478599-lego-blacktron-sp001?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309478599-lego-blacktron-sp001?referrer=catalog",
@@ -76920,7 +76932,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/06_0213a_RWxNdgqqJgjVE4jDUbct2d6v/310x430/1772601348.webp?s=1a78f5aa42fc3740c3646a107edd4c0d5524c57f",
     "datum_pridani": "2026-03-04T05:56:00.184208+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309477284-lego-mechanic-red-ovr008?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309477284-lego-mechanic-red-ovr008?referrer=catalog",
@@ -76931,7 +76943,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/04_0087e_P1LhKU1CDysR4FkNW6jxC4YM/310x430/1772601227.webp?s=f5f1fdb2de418a3210c33e9cdbb9afea93d57886",
     "datum_pridani": "2026-03-04T05:56:00.184208+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309625106-lego-kola-opony-osie-duzy-mix-oryginal?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309625106-lego-kola-opony-osie-duzy-mix-oryginal?referrer=catalog",
@@ -76942,7 +76954,7 @@
     "price": "250,51 Kč",
     "img": "https://images1.vinted.net/t/05_00666_erJXcck8LsKtteZTX4GkL38H/310x430/1772607522.webp?s=8593a8ef57494978b83bf35283d58270bfb4d1cd",
     "datum_pridani": "2026-03-04T07:03:28.110420+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309601392-lego-marvel-spider-man?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309601392-lego-marvel-spider-man?referrer=catalog",
@@ -76977,7 +76989,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/06_016c3_81eqnY9oM3mTQJLpxkvToT4A/310x430/1772610961.webp?s=bfeb34dc67b7f2b6a86deb8d4ef01929963e71cd",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309812706-lego-43213-disney-historyjki-ariel-mala-syrenka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309812706-lego-43213-disney-historyjki-ariel-mala-syrenka?referrer=catalog",
@@ -76988,7 +77000,7 @@
     "price": "269,98 Kč",
     "img": "https://images1.vinted.net/t/03_01222_un3Pujf4Gbp3mPdEx16kLa79/310x430/1772610832.webp?s=b2a89e6340bf516d81c5d92a4b2f4194e22dfed3",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309801486-lego-easter-egg-basket-40863?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309801486-lego-easter-egg-basket-40863?referrer=catalog",
@@ -76999,7 +77011,7 @@
     "price": "200,00 Kč",
     "img": "https://images1.vinted.net/t/01_01fdf_G9XiPpMP9qZoinKHj6abNkMY/310x430/1772610674.webp?s=33638e75c51001d626349b68ce5dbc8ca4a594dc",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309783089-lego-ninjago-40704?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309783089-lego-ninjago-40704?referrer=catalog",
@@ -77010,7 +77022,7 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/05_01bbb_2UwQQARamJNLpgY6h1UfNE1C/310x430/1772610414.webp?s=8ff099a5a918bd54986ffbc24c977d7762a37995",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309779702-garmadon-movie-lego-ninjago-pizamie?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309779702-garmadon-movie-lego-ninjago-pizamie?referrer=catalog",
@@ -77033,7 +77045,7 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/05_01358_iUQizVuhPZoSzCFDY3aXhcyY/310x430/1772610360.webp?s=b031a49da1e773d5a3155d1fc8572225f44161ee",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309723066-440589-plac-zabaw-ze-statkiem-pirackim?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309723066-440589-plac-zabaw-ze-statkiem-pirackim?referrer=catalog",
@@ -77044,7 +77056,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/06_023a9_qqq5M92FHE19D6HVHQTqAkfM/310x430/1772609470.webp?s=4c4cb3b2e23f243c9a6816b1055c8dfc48344ef8",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309710286-lego-ninjago-city?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309710286-lego-ninjago-city?referrer=catalog",
@@ -77055,7 +77067,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/01_02670_Yypwfvw78Z6sFZ9oMwSn2P9B/310x430/1772609251.webp?s=196401ed709e1a9f6c28d42bc2f3af2ea141c4cb",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309685946-lego-star-wars-luke-speeder-8092?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309685946-lego-star-wars-luke-speeder-8092?referrer=catalog",
@@ -77066,7 +77078,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/06_0175c_MoJ7AyxH4C94DqfQrMkHBjU3/310x430/1772608979.webp?s=56ab8d5870e1f937afe0e3e1f015a4e32f05de22",
     "datum_pridani": "2026-03-04T08:03:27.010221+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309646248-harry-potter-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309646248-harry-potter-lego?referrer=catalog",
@@ -77089,7 +77101,7 @@
     "price": "235,51 Kč",
     "img": "https://images1.vinted.net/t/05_01827_Bmt1kAMasWwFMQGtqgzAXEHV/310x430/1772614514.webp?s=a3e81cf5ba71d47dcb2b8020feb0921761c5ca09",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310128059-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310128059-klocki-lego?referrer=catalog",
@@ -77112,7 +77124,7 @@
     "price": "241,26 Kč",
     "img": "https://images1.vinted.net/t/06_012fb_8B1vX7YwBojszad8KT3iYkyW/310x430/1772614377.webp?s=0ef8054d60d676420586632c78ceb1de26a3ff02",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310109193-lego-minifigures-simpsons-71005-milhouse-van-houten-colsim-9-simpsonowie?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310109193-lego-minifigures-simpsons-71005-milhouse-van-houten-colsim-9-simpsonowie?referrer=catalog",
@@ -77123,7 +77135,7 @@
     "price": "287,16 Kč",
     "img": "https://images1.vinted.net/t/05_01d7c_SFH2ivAzWf8gpkWAmv3cLzvd/310x430/1772614223.webp?s=169e9f2f740214c6c43979713db51debc2b79442",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310084501-lego-figurky?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310084501-lego-figurky?referrer=catalog",
@@ -77134,7 +77146,7 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/06_01567_oEddgtLfxQf9gnCTbu1CVaRj/310x430/1772613980.webp?s=6c951558e41aaf9a4564db92149d6e83befe4193",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310060621-lego-creator-31-31149?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310060621-lego-creator-31-31149?referrer=catalog",
@@ -77157,7 +77169,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/06_01b5c_Lnhn6cd1Y7oyp8xP6w6RhpL6/310x430/1772613455.webp?s=8a8e083c180dbdc79c1ad3d5011c431c0f3a9d1d",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310024514-lego-lisci-domek?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310024514-lego-lisci-domek?referrer=catalog",
@@ -77180,7 +77192,7 @@
     "price": "249,00 Kč",
     "img": "https://images1.vinted.net/t/01_01655_vLf4tBMh3biFDbKUL8FiPRc8/310x430/1772613269.webp?s=0e116c76e6aa63247d70ceee4cbcecac6548563a",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310000451-lego-creator-3w1-31173-rybatukanmotyl?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310000451-lego-creator-3w1-31173-rybatukanmotyl?referrer=catalog",
@@ -77191,7 +77203,7 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/05_00c53_F6PMsPGxgunPreY7hQ5btfjX/310x430/1772613107.webp?s=8afdb406fd24cc265300f2d76a149b1ee0a3ce84",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309939871-lego-star-wars-minifigure-imperial-jet-pack-trooper-sw0691-minifigurka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309939871-lego-star-wars-minifigure-imperial-jet-pack-trooper-sw0691-minifigurka?referrer=catalog",
@@ -77202,7 +77214,7 @@
     "price": "215,41 Kč",
     "img": "https://images1.vinted.net/t/06_010ea_sCaeh669vsQDiZN3fYZvNbok/310x430/1772612439.webp?s=6f3e221c19f48a2052f71a1bfc6b697de26c1fa9",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309940098-lego-city-60373?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309940098-lego-city-60373?referrer=catalog",
@@ -77213,7 +77225,7 @@
     "price": "255,00 Kč",
     "img": "https://images1.vinted.net/t/06_023a8_ASwLW79s2mcBshJXZNmcMStM/310x430/1772612442.webp?s=566ba78f64c02709a85d6a2b800481d873f47d5d",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309901141-lego-castle-czesci?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309901141-lego-castle-czesci?referrer=catalog",
@@ -77224,7 +77236,7 @@
     "price": "229,71 Kč",
     "img": "https://images1.vinted.net/t/05_021b1_rWD2GHNMZzLrMxK3qyGGnEgJ/310x430/1772611982.webp?s=0a0f4e0981462388c350e80bb18b113128ead989",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309893304-lego-mikrofigurki-disnay?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309893304-lego-mikrofigurki-disnay?referrer=catalog",
@@ -77235,7 +77247,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/06_0108c_nchKNKN6aFrYtGs7bgkQaknR/310x430/r3/1772611886.webp?s=264ce144fcf32fa50ee17dbf10b74ba44316b338",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8308485994-mix-lego-atlantis?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308485994-mix-lego-atlantis?referrer=catalog",
@@ -77246,7 +77258,8 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/03_009bf_RrSmpwUKvgbhec7c91RkvVEv/310x430/1772569384.webp?s=3d618238082e027537b025baae19248d61e0d674",
     "datum_pridani": "2026-03-04T09:09:29.596359+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8310552590-figurki-lego-ninjago?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310552590-figurki-lego-ninjago?referrer=catalog",
@@ -77257,7 +77270,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_01d33_6fTGzUKwJidig6CAa5TAfWHs/310x430/1772617927.webp?s=14d13cdb35f1bbbcbd998f2a2a556fb091b1275d",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310527642-lego-orc-rezerwacja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310527642-lego-orc-rezerwacja?referrer=catalog",
@@ -77280,7 +77293,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/06_01211_u9pQ3qxZSjiL39q9a7fBNCtw/310x430/1772617718.webp?s=9b6b64b66a9fa7eed0efbc32eb13c54472cd1504",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310485438-lego-star-wars-minifigure-clone-trooper-501st-legion-phase-2-sw0691-minifigurka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310485438-lego-star-wars-minifigure-clone-trooper-501st-legion-phase-2-sw0691-minifigurka?referrer=catalog",
@@ -77291,7 +77304,7 @@
     "price": "229,20 Kč",
     "img": "https://images1.vinted.net/t/06_0105b_Dx8QYFz4qDucQERJRwMp2cZs/310x430/1772617428.webp?s=948b0953d9f71c4c0bf543531cbfc0c0fa45f08c",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310433493-lego-botanicals-11508-stokrotki?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310433493-lego-botanicals-11508-stokrotki?referrer=catalog",
@@ -77314,7 +77327,7 @@
     "price": "200,00 Kč",
     "img": "https://images1.vinted.net/t/06_00ec8_JoTimuKryUZXSCxwpuPV1S14/310x430/1772616636.webp?s=723ab6065c15d8afc6307dad0a98818d328224f0",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310366437-lego-hol383-elf-red-holiday-sweater-with-reindeer?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310366437-lego-hol383-elf-red-holiday-sweater-with-reindeer?referrer=catalog",
@@ -77325,7 +77338,7 @@
     "price": "221,97 Kč",
     "img": "https://images1.vinted.net/t/01_022d6_R9QUseGhLaRKJ382VsbcqJh7/310x430/1772616499.webp?s=53b3afcdb1007325cd8a47c3bb1ef01cd8ede782",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310338315-lego-star-wars-clone-trooper-fives-sw1329?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310338315-lego-star-wars-clone-trooper-fives-sw1329?referrer=catalog",
@@ -77360,7 +77373,7 @@
     "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/01_01ec4_eQf4VdxUwE9WaEfRU1yXfkN6/310x430/1772615432.webp?s=fef5df2b76acc19f14295a7a1e4677ff4c4c2bdb",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310233340-lego-harry-potter-brelok-latarka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310233340-lego-harry-potter-brelok-latarka?referrer=catalog",
@@ -77371,7 +77384,7 @@
     "price": "224,03 Kč",
     "img": "https://images1.vinted.net/t/06_00c40_vf4bvdz3svH2Dsy63czwht5z/310x430/1772615370.webp?s=06ef09c7c4a5a725de56998b47f5cb1dc701fae4",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8309338147-lego-star-wars-75387-wejscie-na-poklad-statku-kosmiczego-tantive-iv?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8309338147-lego-star-wars-75387-wejscie-na-poklad-statku-kosmiczego-tantive-iv?referrer=catalog",
@@ -77382,7 +77395,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/04_00bb9_KSBqjPfYbJxSnxhaeei3mbWD/310x430/1772581900.webp?s=cbe129721b53c78c308322adca02ddbb80369133",
     "datum_pridani": "2026-03-04T10:08:15.455951+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311122877-lego-kralik?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311122877-lego-kralik?referrer=catalog",
@@ -77393,7 +77406,7 @@
     "price": "280,00 Kč",
     "img": "https://images1.vinted.net/t/05_024a4_ZjTmsziwoP6D2iTr68kJRZTC/310x430/1772622090.webp?s=4ff28bf08f032816a63734b47154d9f4032683ef",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311056556-zestaw-lego-figurki-2-el-mariachi-i-santa-muerte-bam-halloween-2025?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311056556-zestaw-lego-figurki-2-el-mariachi-i-santa-muerte-bam-halloween-2025?referrer=catalog",
@@ -77404,7 +77417,7 @@
     "price": "241,26 Kč",
     "img": "https://images1.vinted.net/t/06_0194c_LaoQ5As2UW8gDrWaMNg6rrj1/310x430/1772621621.webp?s=15c85b0f6e49a4b628f9304bfb610c4eb19d417e",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310944095-minifigurki-ninjago-i-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310944095-minifigurki-ninjago-i-lego?referrer=catalog",
@@ -77415,7 +77428,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/04_004a9_MiuicxWR8RyFHURDGFxmeoPv/310x430/1772620817.webp?s=c3b102abfbe3d038960d89266dab6f3e7e04c6fd",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311015025-mix-lego-zestaw-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311015025-mix-lego-zestaw-lego?referrer=catalog",
@@ -77426,7 +77439,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_007c3_UxPKzoZKncD6GTLd2E7Xdqr3/310x430/1772621325.webp?s=d8e55ccddff6a5b4c488ecf0917f9baf5329698d",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310853038-lego-animal-crossing-77058-przytulny-dom-goldie?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310853038-lego-animal-crossing-77058-przytulny-dom-goldie?referrer=catalog",
@@ -77437,7 +77450,7 @@
     "price": "241,26 Kč",
     "img": "https://images1.vinted.net/t/03_009af_QxzouvedM8uFzienTqKVkzLJ/310x430/1772620140.webp?s=c50e8d785a82ad4403ebf0ae71410c1e0c4b1d95",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310892302-figurka-lego-star-wars-sw0807-imperial-death-trooper?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310892302-figurka-lego-star-wars-sw0807-imperial-death-trooper?referrer=catalog",
@@ -77448,7 +77461,7 @@
     "price": "269,98 Kč",
     "img": "https://images1.vinted.net/t/05_01ec6_SuWd4QawBazGfitesWS3c685/310x430/1772620434.webp?s=dbf9166d1f40b3c2ac21d5c0ec3f08e6c51410b5",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310926424-lego-system-space-ufo-6800-cyber-blaster?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310926424-lego-system-space-ufo-6800-cyber-blaster?referrer=catalog",
@@ -77459,7 +77472,7 @@
     "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/01_00e3b_iySbZv2koezFvEbdrwJEEttt/310x430/1772620686.webp?s=886f6f096ab03632ee6a66f356de79c97f8c699d",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310909970-figurka-lego-star-wars-sw0302-gungan-soldier?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310909970-figurka-lego-star-wars-sw0302-gungan-soldier?referrer=catalog",
@@ -77470,7 +77483,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/01_01b34_UqgarVkp5s7zitKnhhB2Gja5/310x430/1772620564.webp?s=e6270c739e8c63a041a2d2aecc7ba6a3000656ad",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310902765-lego-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310902765-lego-auto?referrer=catalog",
@@ -77481,7 +77494,7 @@
     "price": "246,63 Kč",
     "img": "https://images1.vinted.net/t/06_01a18_dgSaR4QZx6YqD4ozDJ8tNyR8/310x430/1772620511.webp?s=77798d5241c8248d37ebb374ef47bdb4a406c153",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310840503-figurka-lego-star-wars-sw0814-jyn-erso?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310840503-figurka-lego-star-wars-sw0814-jyn-erso?referrer=catalog",
@@ -77492,7 +77505,7 @@
     "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/05_01b99_pYpEKBArgtWmN2APMmAqwtEG/310x430/1772620046.webp?s=6dfe95850d59f2ee62c1028a6dd2e2a7410eaf34",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310842005-plastic-man-sh0142?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310842005-plastic-man-sh0142?referrer=catalog",
@@ -77503,7 +77516,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/05_01d40_s5jtdCmyM1eYtJBB5VoUKEqm/310x430/1772620058.webp?s=db0f5152c51701210786bca706bb618263511642",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310820142-lego-40780?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310820142-lego-40780?referrer=catalog",
@@ -77514,7 +77527,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_01bdd_kQndoqpdMW2xHhiYDLCpbeQZ/310x430/1772619896.webp?s=96f98245c652ade91c1366aa38e3d18e1bf99c39",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310781151-figurka-lego-star-wars-sw1155-darth-maul?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310781151-figurka-lego-star-wars-sw1155-darth-maul?referrer=catalog",
@@ -77525,7 +77538,7 @@
     "price": "212,54 Kč",
     "img": "https://images1.vinted.net/t/06_01e31_sR3iaZNKLRegfU3jzJr7qbAA/310x430/1772619609.webp?s=1d4eb18206db9d9abd266aea39d5c97c1c76f272",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310743514-klocki-lego-fortnite?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310743514-klocki-lego-fortnite?referrer=catalog",
@@ -77536,7 +77549,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/05_01a9e_pe7hjxPLmYrfe6gSgNxjSG4P/310x430/1772619331.webp?s=603c6497858fa226f1c9f855acbcabea8a3469c3",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310666549-lego-6683-instrukcja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310666549-lego-6683-instrukcja?referrer=catalog",
@@ -77547,7 +77560,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/01_025a1_mz7Qf2jkdhYtrFuRD8ehnm8b/310x430/1772618762.webp?s=1eca2fe8e6fe0aedea6beee38fbc59f308709737",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310649261-lego-creator-7-12-3w1-nowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310649261-lego-creator-7-12-3w1-nowe?referrer=catalog",
@@ -77558,7 +77571,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/05_02410_qcBB97qtyYbL89KUAJs2Zwa2/310x430/1772618635.webp?s=968fe9ebad1bf76f187607aaf6da51bb8555cafc",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310653522-lego-hasicske-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310653522-lego-hasicske-auto?referrer=catalog",
@@ -77569,7 +77582,7 @@
     "price": "271,29 Kč",
     "img": "https://images1.vinted.net/t/04_01f1d_bcxPuJxrwVP7c9ifyb9gxqhG/310x430/1772618666.webp?s=e46da12ad48b918b689badcaa4b56c4f2adb059c",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310625479-mix-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310625479-mix-lego?referrer=catalog",
@@ -77580,7 +77593,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/05_0046a_aHpTq1boaeoyxwJGbkfxuWRg/310x430/1772618459.webp?s=4f73964da335a00ced6a35547bb474c0e53eb45e",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8310617283-klocki-lego-botanicals-cherry-blossoms-kwiat-wisni-40725?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8310617283-klocki-lego-botanicals-cherry-blossoms-kwiat-wisni-40725?referrer=catalog",
@@ -77591,7 +77604,7 @@
     "price": "247,00 Kč",
     "img": "https://images1.vinted.net/t/01_008ec_m28YCcZbch3UrFXVaqtCS6B8/310x430/1772618399.webp?s=bec83331a08a2db6d0b0150423016d729d5c7b1c",
     "datum_pridani": "2026-03-04T11:07:26.436475+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8308413466-lego-tank?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8308413466-lego-tank?referrer=catalog",
@@ -77614,7 +77627,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/06_01ff5_RUUeFr98YdZVzWWQsSXbJrh1/310x430/1772625243.webp?s=5e4658fa94b6d537cf29bd08d6afa0cbbf218efd",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311505448-lego-40523-zajaczki-wielkanocne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311505448-lego-40523-zajaczki-wielkanocne?referrer=catalog",
@@ -77625,7 +77638,7 @@
     "price": "275,72 Kč",
     "img": "https://images1.vinted.net/t/05_01a6f_9DBHduGyREhN2w5zXgtePf4u/310x430/1772624890.webp?s=8212012451e5e170c82d72bb6234009da656f072",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311492271-klocki-lego-friends-41119-sklep-z-babeczkami?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311492271-klocki-lego-friends-41119-sklep-z-babeczkami?referrer=catalog",
@@ -77636,7 +77649,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_012af_1Fzgs381G3G3tLWPjy8LpxPc/310x430/1772624795.webp?s=6d507b7a2d81dcd1365c0ad9f5b4de41dd5a4155",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311492164-wielki-zestaw-lego-friends-w-walizka-playmobil?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311492164-wielki-zestaw-lego-friends-w-walizka-playmobil?referrer=catalog",
@@ -77647,7 +77660,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_02631_ypNuVi7paktrkpu2PwyJTxfd/310x430/1772624794.webp?s=dbb1312c22eaa437f2b8137129e007181c8f44b3",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311479768-lego-disney-43243?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311479768-lego-disney-43243?referrer=catalog",
@@ -77655,10 +77668,10 @@
     "brand": "LEGO",
     "condition": "Nový s visačkou",
     "size": "116–121 cm / 6 let",
-    "price": "275,72 Kč",
+    "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/01_0028a_35gLiNpCozoaQMYr19zNkftu/310x430/1772624703.webp?s=bfd1e45d8f033949597cb8dc53b8d4525ae0283f",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311474801-klocki-lego-friends-41335-domek-na-drzewie-z-tyrolka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311474801-klocki-lego-friends-41335-domek-na-drzewie-z-tyrolka?referrer=catalog",
@@ -77669,7 +77682,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_012c0_VvyFrWk8jCW6yfseLAex7AT8/310x430/1772624667.webp?s=464ef352aeacad833991f0ae1fc7c1e486742b13",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311472714-disney-lego-pieski-dalmatynczyki-nowe-dla-dzieci?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311472714-disney-lego-pieski-dalmatynczyki-nowe-dla-dzieci?referrer=catalog",
@@ -77680,7 +77693,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/01_011ed_Knq37P35YezbrNT98HBvqMsx/310x430/1772624652.webp?s=6fd0fbe2867be609364e9223ac3ac9ded47e58a3",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311461729-klocki-lego-disney-43243?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311461729-klocki-lego-disney-43243?referrer=catalog",
@@ -77688,10 +77701,10 @@
     "brand": "LEGO",
     "condition": "Nový s visačkou",
     "size": "116–121 cm / 6 let",
-    "price": "281,47 Kč",
+    "price": "269,98 Kč",
     "img": "https://images1.vinted.net/t/06_0048d_bPevJRMTjJdbPG42jUb1dtMK/310x430/1772624572.webp?s=b985d7ae7e2dc2e6b2b24871021a00aff6ac8139",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311413003-figurki-zwierzat-lego-widoczne-na-zdjeciu-stan-bdb?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311413003-figurki-zwierzat-lego-widoczne-na-zdjeciu-stan-bdb?referrer=catalog",
@@ -77702,7 +77715,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/01_02648_MpGZMzKMNXnG9w84E9hTfEw7/310x430/1772624215.webp?s=b7e82eed5bc36249135c619633f07335ca826a14",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311401898-nowe-klocki-lego-promocyjne-40608-halloweenowa-frajda-zestaw-vip?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311401898-nowe-klocki-lego-promocyjne-40608-halloweenowa-frajda-zestaw-vip?referrer=catalog",
@@ -77713,7 +77726,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/01_00506_FqU8Lx4m27ZxnsnHSrp7jbSB/310x430/1772624132.webp?s=6aaddefe7e17ac0386140944d89fc9b9a725a49a",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311398062-figurki-zwierzat-lego-widoczne-na-zdjeciu-stan-bdb?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311398062-figurki-zwierzat-lego-widoczne-na-zdjeciu-stan-bdb?referrer=catalog",
@@ -77724,7 +77737,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/06_00542_AeYS4oBVurPpftjdo75qVQ32/310x430/1772624103.webp?s=976ae0924e697e32ba86c16f06228cdbbf4cf622",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311368405-lego-zajaczek-wielkanocny?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311368405-lego-zajaczek-wielkanocny?referrer=catalog",
@@ -77735,7 +77748,7 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/04_0167e_1HFq8GrfvwVsjAxm3q2sRJYa/310x430/1772623884.webp?s=a5b2be1d39e74fe9db09317c5b6e63fd4f952d2b",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311349739-klocki-lego-city-stuntz-60299?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311349739-klocki-lego-city-stuntz-60299?referrer=catalog",
@@ -77746,7 +77759,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/05_022bb_WsrNbu9XUoQBYKRvjryRgAPq/310x430/1772623748.webp?s=e868f46b92c31c56bd09f5171d54f0ac24f13f8a",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311336510-lego-city-60463?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311336510-lego-city-60463?referrer=catalog",
@@ -77757,7 +77770,7 @@
     "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/06_02520_Wn4eVxAwFmLpAqzyt2PfWzKF/310x430/1772623650.webp?s=4ad8a27ac412475c430c1b164c052725782db66b",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311335757-latarka-lego-szturmowiec-star-wars?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311335757-latarka-lego-szturmowiec-star-wars?referrer=catalog",
@@ -77768,7 +77781,8 @@
     "price": "229,77 Kč",
     "img": "https://images1.vinted.net/t/06_01d8d_iaHt7TxoxAMxQAsnmBpidnhd/310x430/1772623644.webp?s=55796fb13ca25298b157df89692a60bf0699b35c",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8311327953-lego-dreamzzzz-71472?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311327953-lego-dreamzzzz-71472?referrer=catalog",
@@ -77779,7 +77793,8 @@
     "price": "281,47 Kč",
     "img": "https://images1.vinted.net/t/01_02432_nSnBrJUMPQ45fKpfEqy7uXjS/310x430/1772623586.webp?s=ba50c5f454f9fbeed6f0acc9dbb022afe47d0d5c",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T11:57:05.822894+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8311324831-klocki-lego-city-60463?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311324831-klocki-lego-city-60463?referrer=catalog",
@@ -77790,7 +77805,7 @@
     "price": "269,98 Kč",
     "img": "https://images1.vinted.net/t/05_01678_p6Eh9n3HSWgXi2q7JoUztRRc/310x430/1772623563.webp?s=60080153d3df27c3f1412b89b213ede07a7b0e47",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311303356-lego-31133-krolik-papuga-foka-3in1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311303356-lego-31133-krolik-papuga-foka-3in1?referrer=catalog",
@@ -77801,7 +77816,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/04_0136c_conuFRPKnLLbdrdrRNCjc1hP/310x430/1772623406.webp?s=b3c33cc4ff9cdb71a65ae5073dbd1d506e5ef7c9",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311296905-lego-star-wars-minifigurka-clone-trooper-sergeant?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311296905-lego-star-wars-minifigurka-clone-trooper-sergeant?referrer=catalog",
@@ -77812,7 +77827,7 @@
     "price": "230,00 Kč",
     "img": "https://images1.vinted.net/t/04_011f6_1svuHUj74msiBkgFp1wtJ55P/310x430/1772623360.webp?s=532d44f1eca6ef39d98edf12a580063bdac1da03",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311294260-lego-creator-taksowka-nyc?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311294260-lego-creator-taksowka-nyc?referrer=catalog",
@@ -77823,7 +77838,7 @@
     "price": "258,49 Kč",
     "img": "https://images1.vinted.net/t/05_00c9a_mFjrnc4EHVXCj1mrmcyuozxi/310x430/1772623340.webp?s=941abd5b33d13b7c8e52ba6abbf1c59b856d36af",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311268226-lego-41376?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311268226-lego-41376?referrer=catalog",
@@ -77834,7 +77849,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/06_00005_52RL7GRwMYFyTr8D9SkUd9GY/310x430/1772623150.webp?s=b65d182f884b810f8e1369459bac1d391d2833e5",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311274598-lego-star-wars-minifigurka-clone-commander-gree?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311274598-lego-star-wars-minifigurka-clone-commander-gree?referrer=catalog",
@@ -77845,7 +77860,7 @@
     "price": "280,00 Kč",
     "img": "https://images1.vinted.net/t/05_00049_sP3H9UG76n7FBd9MkKzw4RBP/310x430/1772623196.webp?s=9e1e436f49ea0b250903989bd3e095d2e0cf84b8",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311243591-lego-lord-of-the-rings-gandalf-the-grey?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311243591-lego-lord-of-the-rings-gandalf-the-grey?referrer=catalog",
@@ -77856,7 +77871,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/04_005e8_GUttZGSbejjxASAcNh62cM3b/310x430/1772622970.webp?s=68ed6d70fcd3c0f557f78ecada0326816150e7dd",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311241880-nowe-klocki-lego-inne-40775-minizamek-rycerski?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311241880-nowe-klocki-lego-inne-40775-minizamek-rycerski?referrer=catalog",
@@ -77867,7 +77882,7 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/04_00db0_tdpjxNxNyrEnEF3bCyJYeigA/310x430/1772622958.webp?s=3878dfe942332c26f2d7e30d43ce735c9f7afad1",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   },
   "https://www.vinted.cz/items/8311217836-lego-black-falcon-cas253-i-cas301?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8311217836-lego-black-falcon-cas253-i-cas301?referrer=catalog",
@@ -77878,6 +77893,182 @@
     "price": "287,21 Kč",
     "img": "https://images1.vinted.net/t/05_018bb_EgMaoRKVHaPmTyp8cYMCHUri/310x430/1772622781.webp?s=91a73edd98e87acc86a09e011b4e167eeb7c53ec",
     "datum_pridani": "2026-03-04T11:57:05.822894+00:00",
-    "posledni_videno": "2026-03-04T11:57:05.822894+00:00"
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8312254956-zestaw-lego-6192-pirates-building-set?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8312254956-zestaw-lego-6192-pirates-building-set?referrer=catalog",
+    "title": "Zestaw LEGO 6192 Pirates Building Set",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "116–121 cm / 6 let",
+    "price": "287,21 Kč",
+    "img": "https://images1.vinted.net/t/04_00fb3_cZCb4X7HFB1AadCZe8TKKc7p/310x430/1772630187.webp?s=7336ec6f1d0f884fb663c7dc0dbca83930c23eed",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8312034400-lego-6?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8312034400-lego-6?referrer=catalog",
+    "title": "Lego 6+",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "116–121 cm / 6 let",
+    "price": "200,00 Kč",
+    "img": "https://images1.vinted.net/t/05_00f18_hMBdbwo1hoJqC7LN4HNfD4p6/310x430/1772628657.webp?s=45e823f773e19fa84bb2390a0fb6c9c8caafbd5f",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311977549-lego-castle-minifigurka-czarodziejwizard?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311977549-lego-castle-minifigurka-czarodziejwizard?referrer=catalog",
+    "title": "Lego Castle minifigurka Czarodziej/Wizard",
+    "brand": "LEGO",
+    "condition": "Nový bez visačky",
+    "size": "Univerzální",
+    "price": "281,47 Kč",
+    "img": "https://images1.vinted.net/t/05_01956_qYUSxVdpQmtKVyUu5A2pZxZM/310x430/1772628268.webp?s=d8cc8d45040e4fac096f9c80b3bd353631106ffc",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311896158-zestaw-playmobil-i-lego?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311896158-zestaw-playmobil-i-lego?referrer=catalog",
+    "title": "Zestaw playmobil i Lego",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "104–109 cm / 4 roky",
+    "price": "287,21 Kč",
+    "img": "https://images1.vinted.net/t/04_0015d_sYXFNscci6P75cxT8a33efn8/310x430/1772627698.webp?s=704a9a5d903e6e9ed596622be73ee545bf3f2751",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311871592-lego-vek-5?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311871592-lego-vek-5?referrer=catalog",
+    "title": "Lego  věk 5+",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "110–115 cm / 5 let",
+    "price": "200,00 Kč",
+    "img": "https://images1.vinted.net/t/05_00ea0_MZh3zdeF3QYCb35ZikXDN7cz/310x430/1772627526.webp?s=5936b1b4ccfd201d1c79902eadc039e3465f7c96",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311792977-duzy-zestaw-klockow-ele-fun?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311792977-duzy-zestaw-klockow-ele-fun?referrer=catalog",
+    "title": "Duży zestaw klocków Ele Fun",
+    "brand": "LEGO",
+    "condition": "Dobrý",
+    "size": "116–121 cm / 6 let",
+    "price": "287,21 Kč",
+    "img": "https://images1.vinted.net/t/06_018ab_RQS1hPsttKASFj7So11Vo4zt/310x430/1772626971.webp?s=10b2e0eae2d1296cd56bdcaf9eac96a8164e15f5",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311786698-lego-technic-42200?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311786698-lego-technic-42200?referrer=catalog",
+    "title": "Lego Technic 42200",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "229,77 Kč",
+    "img": "https://images1.vinted.net/t/01_0114b_mK5Wse5UXCSRyoLysZLPZzVZ/310x430/1772626924.webp?s=062f41eb8209fd59c66160738e98a7cb4c5c7f0e",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311769600-lego-technic-42198?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311769600-lego-technic-42198?referrer=catalog",
+    "title": "Lego Technic 42198",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "229,77 Kč",
+    "img": "https://images1.vinted.net/t/04_00fa1_teA6GF33iX1gE3ouFgDhLBQr/310x430/1772626802.webp?s=21283afc3033fb382927d07564ccf2642bd1ffb2",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311728887-lego-speed-77237?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311728887-lego-speed-77237?referrer=catalog",
+    "title": "Lego speed 77237",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "287,21 Kč",
+    "img": "https://images1.vinted.net/t/03_008fd_VLtkViB8dVUKV4w7ivUVXZCW/310x430/1772626510.webp?s=80da2c59c8744cd674fbf5c26acceded28eaa278",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311697005-lego-originalni-figurky-spiderman?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311697005-lego-originalni-figurky-spiderman?referrer=catalog",
+    "title": "Lego originální figurky Spiderman",
+    "brand": "LEGO",
+    "condition": "Nový bez visačky",
+    "size": "Univerzální",
+    "price": "250,00 Kč",
+    "img": "https://images1.vinted.net/t/06_025b9_smRGeiqJ3TJaznqyHh39dKvo/310x430/1772626280.webp?s=0a6bcf6b8a4f1628ec327276089865e5941945fd",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311687543-rozsirujici-set-stavebnice-lego-lego-star-wars-lego-city-atd?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311687543-rozsirujici-set-stavebnice-lego-lego-star-wars-lego-city-atd?referrer=catalog",
+    "title": "Rozšiřující set stavebnice Lego - Lego Star Wars, Lego City, atd.",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "260,00 Kč",
+    "img": "https://images1.vinted.net/t/04_00842_4dXW2m7kMQPZnwPNPjHxn9vN/310x430/1772626211.webp?s=b4c575ea8f68aa50a77c2b1d3bb027ec5c40fe71",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311625895-lego-ninjago-minifigurki-sora?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311625895-lego-ninjago-minifigurki-sora?referrer=catalog",
+    "title": "LEGO Ninjago minifigurki Sora",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "do 44 cm",
+    "price": "229,77 Kč",
+    "img": "https://images1.vinted.net/t/05_005af_YAfvHfoxyMt98UaPC5zgcYy9/310x430/1772625762.webp?s=17a3f535982868fa0d9fba770468dbc09c388788",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311623644-lego-creator-3in1-31147?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311623644-lego-creator-3in1-31147?referrer=catalog",
+    "title": "Lego Creator 3in1 (31147)",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "128–133 cm / 8 let",
+    "price": "275,00 Kč",
+    "img": "https://images1.vinted.net/t/06_01f2e_uYrsCWFjvgR3xzRXR2GuQh8S/310x430/1772625745.webp?s=ea6f4d77f5ddde70904aba192fec0c04e8daf8c9",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311606265-lego-creator-3in1-31146?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311606265-lego-creator-3in1-31146?referrer=catalog",
+    "title": "Lego Creator 3in1 (31146)",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "122–127 cm / 7 let",
+    "price": "275,00 Kč",
+    "img": "https://images1.vinted.net/t/05_00844_svRqB3nfcaU2iSRX5kxccK8u/310x430/1772625618.webp?s=96512779bcd2140361d8ac138d742574775c40f9",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311575433-lego-iron-man-bez-maski?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311575433-lego-iron-man-bez-maski?referrer=catalog",
+    "title": "LEGO Iron Man bez maski",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "do 44 cm",
+    "price": "258,49 Kč",
+    "img": "https://images1.vinted.net/t/05_009ac_A521yPNCsWoe2H8bZ8ffkyBT/310x430/1772625397.webp?s=2c52db22342b8d54649c73147854fcb138f375dc",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
+  },
+  "https://www.vinted.cz/items/8311327953-lego-dreamzzz-balon-na-ogrzane-powietrze-izzie-71472?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8311327953-lego-dreamzzz-balon-na-ogrzane-powietrze-izzie-71472?referrer=catalog",
+    "title": "Lego dreamzzz balon na ogrzane powietrze Izzie  71472",
+    "brand": "LEGO",
+    "condition": "Nový s visačkou",
+    "size": "122–127 cm / 7 let",
+    "price": "281,47 Kč",
+    "img": "https://images1.vinted.net/t/01_02432_nSnBrJUMPQ45fKpfEqy7uXjS/310x430/1772623586.webp?s=ba50c5f454f9fbeed6f0acc9dbb022afe47d0d5c",
+    "datum_pridani": "2026-03-04T13:18:15.425564+00:00",
+    "posledni_videno": "2026-03-04T13:18:15.425564+00:00"
   }
 }
