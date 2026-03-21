@@ -1,40 +1,4 @@
 {
-  "https://www.vinted.cz/items/8207681972-lego-mix-4-kg?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/8207681972-lego-mix-4-kg?referrer=catalog",
-    "title": "Lego mix 4 kg",
-    "brand": "LEGO",
-    "condition": "Dobrý",
-    "size": "do 44 cm",
-    "price": "1103,10 Kč",
-    "img": "https://images1.vinted.net/t/05_001f7_hrTcbw4iAcRu9d7PFmxsLPx4/310x430/1771450470.webp?s=27fad69d98730f202f02456b86dbbbd86afb47db",
-    "datum_pridani": "2026-02-18T22:01:17.418554+00:00",
-    "posledni_videno": "2026-02-22T22:35:40.698203+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/8207793667-klocki-lego-1kg-5-figurek?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/8207793667-klocki-lego-1kg-5-figurek?referrer=catalog",
-    "title": "Klocki lego 1kg + 5 figurek",
-    "brand": "LEGO",
-    "condition": "Velmi dobrý",
-    "size": "Univerzální",
-    "price": "435,44 Kč",
-    "img": "https://images1.vinted.net/t/03_006f2_eRv2o8oAe6JPzeL8vGwAd8ds/310x430/1771451932.webp?s=2ec6609c8253612dc991e40b03aba199b0a50ef2",
-    "datum_pridani": "2026-02-18T22:01:17.418554+00:00",
-    "posledni_videno": "2026-02-21T10:37:22.099518+00:00",
-    "nedostupne": true
-  },
-  "https://www.vinted.cz/items/8207583616-kolorowy-mix-lego?referrer=catalog": {
-    "url": "https://www.vinted.cz/items/8207583616-kolorowy-mix-lego?referrer=catalog",
-    "title": "Kolorowy mix Lego",
-    "brand": "LEGO",
-    "condition": "Velmi dobrý",
-    "size": "Univerzální",
-    "price": "174,71 Kč",
-    "img": "https://images1.vinted.net/t/05_01695_DzL8d5NT5ubkguu4nVcD8HvJ/310x430/1771449372.webp?s=9cff293cfe4f9bf63203108700e3cbb729cea9d1",
-    "datum_pridani": "2026-02-18T22:01:17.418554+00:00",
-    "posledni_videno": "2026-02-18T22:50:32.697197+00:00",
-    "nedostupne": true
-  },
   "https://www.vinted.cz/items/8206681302-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8206681302-lego-duplo?referrer=catalog",
     "title": "Lego duplo",
@@ -10524,7 +10488,7 @@
     "img": "https://images1.vinted.net/t/03_01852_SwwmELx6Jd4z5ejnzAnPhavg/310x430/1773565681.webp?s=772e30c4f13a807c20ee04376bbf32594f7cdc51",
     "datum_pridani": "2026-03-15T09:44:35.878034+00:00",
     "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8398199266-wielki-zestaw-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8398199266-wielki-zestaw-lego-duplo?referrer=catalog",
@@ -10560,7 +10524,7 @@
     "img": "https://images1.vinted.net/t/01_00f8f_wgz4EVfmN8AwPPLkEZ8zggQM/310x430/1773569962.webp?s=fde22c4ecd14e7f7530dc0c7b49b357bd1318819",
     "datum_pridani": "2026-03-15T10:41:27.560574+00:00",
     "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8397953067-mix-klockow-lego-ok2-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8397953067-mix-klockow-lego-ok2-kg?referrer=catalog",
@@ -10584,7 +10548,7 @@
     "img": "https://images1.vinted.net/t/01_02021_mazarwhNDgLwyR1Txok9kHGm/310x430/1773568340.webp?s=edd08db4550c5ff472c1992f44bc2a6b81a337d7",
     "datum_pridani": "2026-03-15T10:41:27.560574+00:00",
     "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8399034267-lego-castle-5-kg-vintage-retro-legoland?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8399034267-lego-castle-5-kg-vintage-retro-legoland?referrer=catalog",
@@ -10655,7 +10619,8 @@
     "price": "695,30 Kč",
     "img": "https://images1.vinted.net/t/06_0132e_gNtgonUEvJJSi9qyK7iCn9D6/310x430/1773578010.webp?s=2b670c5551ea680c81806f1e4264d7e7ff1141cb",
     "datum_pridani": "2026-03-15T13:12:44.914136+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8399803652-lego-duplo-10508-dwie-kolejki-i-inne-zestawy-8-kg-klockow?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8399803652-lego-duplo-10508-dwie-kolejki-i-inne-zestawy-8-kg-klockow?referrer=catalog",
@@ -10666,7 +10631,8 @@
     "price": "2027,96 Kč",
     "img": "https://images1.vinted.net/t/05_00afb_UzcWsk4ux6BmCFiiKH1jvm6r/310x430/1773577843.webp?s=8d2e76e4f304ddefbda0847b0039d5d7f3d3c594",
     "datum_pridani": "2026-03-15T13:12:44.914136+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8399664011-lego-duplo-10508-i-inne-zestawy-8-kg-klockow?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8399664011-lego-duplo-10508-i-inne-zestawy-8-kg-klockow?referrer=catalog",
@@ -10678,7 +10644,7 @@
     "img": "https://images1.vinted.net/t/06_00e47_bR5SU99zUDgUmGgJX43vPaWQ/310x430/1773577218.webp?s=aa95804476fe369b946824b5f7097d67b227d7dd",
     "datum_pridani": "2026-03-15T13:12:44.914136+00:00",
     "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8399481405-pudelko-roznych-klockow-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8399481405-pudelko-roznych-klockow-lego?referrer=catalog",
@@ -10808,7 +10774,8 @@
     "price": "1825,16 Kč",
     "img": "https://images1.vinted.net/t/06_02414_192pdnQ85UyVL3jSn3P1FvYJ/310x430/1773591995.webp?s=272f730dc430ce6a0707dc64671ec7a47ba533fc",
     "datum_pridani": "2026-03-15T16:43:34.993277+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8403023059-10-kilogramow-oryginalnych-klockow-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8403023059-10-kilogramow-oryginalnych-klockow-lego?referrer=catalog",
@@ -10855,7 +10822,7 @@
     "price": "6953,01 Kč",
     "img": "https://images1.vinted.net/t/05_01b6e_SatvxzHQvQHmXZJsXgg8hrmc/310x430/1773595962.webp?s=77cab2792cdec069cc6989a7e628e79612b80f4c",
     "datum_pridani": "2026-03-15T17:38:44.919456+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8403906218-klocki-lego-miks-mix-mieszanka-4kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8403906218-klocki-lego-miks-mix-mieszanka-4kg?referrer=catalog",
@@ -10926,7 +10893,8 @@
     "price": "254,94 Kč",
     "img": "https://images1.vinted.net/t/06_00c84_zHmpWRVAvMGtdfT2eSsDZHWv/310x430/1773593717.webp?s=8151eb5caa0bb44edb138191bd9acf2d2f59e362",
     "datum_pridani": "2026-03-15T17:38:44.919456+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/8401659737-lego-friends?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8401659737-lego-friends?referrer=catalog",
@@ -11093,7 +11061,7 @@
     "price": "1912,08 Kč",
     "img": "https://images1.vinted.net/t/06_0076c_TqReN3oqZYCrx2RoVpSxGzU1/310x430/1773677376.webp?s=f592f65e752dde14e185d09d7a6d5cf749cfaa98",
     "datum_pridani": "2026-03-16T16:40:53.914267+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8410410027-mix-lego-6kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8410410027-mix-lego-6kg?referrer=catalog",
@@ -11164,7 +11132,7 @@
     "price": "399,00 Kč",
     "img": "https://images1.vinted.net/t/01_000d0_6K6xnfr5tTPT6MqBfDY5q6QC/310x430/1773680508.webp?s=bf1fd733a83de162f6a2395e99d80f4fbe1260d5",
     "datum_pridani": "2026-03-16T18:05:57.915953+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8410410027-mix-lego-8kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8410410027-mix-lego-8kg?referrer=catalog",
@@ -11175,7 +11143,7 @@
     "price": "2027,96 Kč",
     "img": "https://images1.vinted.net/t/01_016bb_SwhD51a6s87m7tf1L3h4H7L5/310x430/1773677615.webp?s=4e6586831a1e7e7bedcdcd36ed3abf5d1f4f11f4",
     "datum_pridani": "2026-03-16T18:05:57.915953+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/8413481370-lego-luzem-115-kg?referrer=catalog": {
@@ -11199,7 +11167,7 @@
     "price": "1158,83 Kč",
     "img": "https://images1.vinted.net/t/06_00c2c_qqrJh3R2T6HBMtdfdivLW1wo/310x430/1773688170.webp?s=08cefcaaf50d54e9e1b985ce803d09c3337ceeaa",
     "datum_pridani": "2026-03-16T19:36:45.522052+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8412981893-klocki-lego-mix-3-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8412981893-klocki-lego-mix-3-kg?referrer=catalog",
@@ -11210,7 +11178,7 @@
     "price": "2311,87 Kč",
     "img": "https://images1.vinted.net/t/01_025b3_uFyCFyFdRT6xpMrvBVrVwogp/310x430/1773686006.webp?s=7eec4ed2b506181739ce973c6e39f043507fb5c5",
     "datum_pridani": "2026-03-16T19:36:45.522052+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8412932293-1-kg-mix-klockow-lego-losowe?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8412932293-1-kg-mix-klockow-lego-losowe?referrer=catalog",
@@ -11340,7 +11308,7 @@
     "price": "1158,83 Kč",
     "img": "https://images1.vinted.net/t/05_00139_5ooxTcgxFodP5BFU52Q7NfDy/310x430/1773696124.webp?s=71591a4f8299fe8fc0c577daf1fe5fa438d03858",
     "datum_pridani": "2026-03-16T21:51:57.482707+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8380148100-cervene-tricko-lego-city-s-hasici-v128-134?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8380148100-cervene-tricko-lego-city-s-hasici-v128-134?referrer=catalog",
@@ -11387,7 +11355,7 @@
     "price": "289,71 Kč",
     "img": "https://images1.vinted.net/t/06_017e6_u9x8yj9ZLmD4hDvBbskhCEhS/310x430/1773735355.webp?s=c48f3d53a0c74a039a1049b367e79cbf30c32ace",
     "datum_pridani": "2026-03-17T09:02:59.975321+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8415308869-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8415308869-klocki-lego?referrer=catalog",
@@ -11398,7 +11366,7 @@
     "price": "347,65 Kč",
     "img": "https://images1.vinted.net/t/01_0240c_mThv2AQZ1EUrjYcfdiiTNyyZ/310x430/1773735333.webp?s=dfcd145d8a6cea98b3ffab31a40ac13f56319ec0",
     "datum_pridani": "2026-03-17T09:02:59.975321+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8415299437-duzy-zestaw-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8415299437-duzy-zestaw-lego-duplo?referrer=catalog",
@@ -11433,7 +11401,7 @@
     "price": "405,59 Kč",
     "img": "https://images1.vinted.net/t/05_003e9_nPzM4LnPVh7UrnGKh87mZsBj/310x430/1773733293.webp?s=0542d381df424344f89d8c1bcc284128483e023e",
     "datum_pridani": "2026-03-17T09:02:59.975321+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8415735494-zestaw-lego-duplo-xxl?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8415735494-zestaw-lego-duplo-xxl?referrer=catalog",
@@ -11598,7 +11566,7 @@
     "price": "1158,83 Kč",
     "img": "https://images1.vinted.net/t/05_01a3c_ifyX6Yv62TX7sHNQTT96TZv8/310x430/1773685198.webp?s=ed7c0668e4de4660b5b70f969f80150e305ac770",
     "datum_pridani": "2026-03-17T15:13:04.495180+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8419480392-klocki-lego-mieszane?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8419480392-klocki-lego-mieszane?referrer=catalog",
@@ -11633,7 +11601,7 @@
     "price": "500,00 Kč",
     "img": "https://images1.vinted.net/t/06_012c9_whqUMXAcaaJA69xXorj6b3PP/310x430/1773761737.webp?s=cf55a260a98c621ab1794e5fb58cf4e5f85e354c",
     "datum_pridani": "2026-03-17T16:43:48.873712+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8420372853-lego-klocki-mix-2-kg-technic-kola-zestaw?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8420372853-lego-klocki-mix-2-kg-technic-kola-zestaw?referrer=catalog",
@@ -11692,7 +11660,7 @@
     "price": "6373,59 Kč",
     "img": "https://images1.vinted.net/t/05_01f7c_NF5p8sFGtRZptuKbiet3Dnty/310x430/1773773853.webp?s=c16b075859cb80f0eb441279ccf688d0dbedabde",
     "datum_pridani": "2026-03-17T19:37:19.816847+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8420887165-klocki?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8420887165-klocki?referrer=catalog",
@@ -11751,7 +11719,7 @@
     "price": "1448,54 Kč",
     "img": "https://images1.vinted.net/t/03_015a9_Dc1jj9qcLyHwCQVUhZ6cjNdC/310x430/1773784316.webp?s=272d008be6a0146b3180e46198c3fa28a95eee0e",
     "datum_pridani": "2026-03-17T22:44:05.512323+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8421110881-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8421110881-klocki-lego?referrer=catalog",
@@ -11762,8 +11730,8 @@
     "price": "388,21 Kč",
     "img": "https://images1.vinted.net/t/05_01df2_JzdTuv6DnYVJuaw1YtsMTM5h/310x430/1773775182.webp?s=90a2cfae1010164e29e264c0c68338387634d8b8",
     "datum_pridani": "2026-03-17T23:41:38.720479+00:00",
-    "posledni_videno": "2026-03-21T18:50:33.928789+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8386113499-lego-t-shirt-1112-lat?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8386113499-lego-t-shirt-1112-lat?referrer=catalog",
@@ -11834,8 +11802,8 @@
     "price": "399,80 Kč",
     "img": "https://images1.vinted.net/t/01_01682_BARdZBAAH5PrfaA7LFAYtrgY/310x430/1773827284.webp?s=08c05bff7c15225d49cbe72143ca997609cad5ed",
     "datum_pridani": "2026-03-18T10:32:14.637452+00:00",
-    "posledni_videno": "2026-03-21T20:38:23.814054+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8423652100-5-kg-lego-mix-bez-ludzikow?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8423652100-5-kg-lego-mix-bez-ludzikow?referrer=catalog",
@@ -11858,7 +11826,7 @@
     "price": "1854,14 Kč",
     "img": "https://images1.vinted.net/t/05_0151a_Y9hT79Ah8m9LZoiGRc7Vbjsu/310x430/1773826286.webp?s=f1b5ac3963f05826c06ca6ae88df66802c841f80",
     "datum_pridani": "2026-03-18T10:32:14.637452+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8423395997-klocki-konstrukcyjne-kompatybilne-z-lego-prawie-1-kg-cobi?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8423395997-klocki-konstrukcyjne-kompatybilne-z-lego-prawie-1-kg-cobi?referrer=catalog",
@@ -11869,7 +11837,7 @@
     "price": "220,18 Kč",
     "img": "https://images1.vinted.net/t/04_00c22_5yPj4dPdPQnGjnK4E9tySEJB/310x430/1773824894.webp?s=11a2a79507a640286bdf8e022d5c79854c0c60ce",
     "datum_pridani": "2026-03-18T10:32:14.637452+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8423380733-lego-mix-75kg-mieszanka-klockow-okazja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8423380733-lego-mix-75kg-mieszanka-klockow-okazja?referrer=catalog",
@@ -11880,7 +11848,7 @@
     "price": "2027,96 Kč",
     "img": "https://images1.vinted.net/t/01_01f89_ZuFKDZgPkV9f2Nozb2AwGfki/310x430/1773824760.webp?s=a963058eda1b1de462db65764f03ed942aa747a9",
     "datum_pridani": "2026-03-18T10:32:14.637452+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8424586282-mix-klockow-typu-cobi-i-inne-ponad-1-kg-klockow-nie-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8424586282-mix-klockow-typu-cobi-i-inne-ponad-1-kg-klockow-nie-lego?referrer=catalog",
@@ -11891,7 +11859,7 @@
     "price": "278,12 Kč",
     "img": "https://images1.vinted.net/t/05_00063_J83SyeU62DDdBknGUMd3XseE/310x430/1773833582.webp?s=8bc1eeb99b4581f5bcb3c0e2b907713f86e9621f",
     "datum_pridani": "2026-03-18T11:53:41.337578+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8424395737-klocki-lego-okolo-4-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8424395737-klocki-lego-okolo-4-kg?referrer=catalog",
@@ -11950,7 +11918,7 @@
     "price": "600,00 Kč",
     "img": "https://images1.vinted.net/t/06_01bcb_WwBGexNwqLkSLxgPLfHnZkZo/310x430/1773847081.webp?s=f850909ef8fdee68e38dbf185a6d05ac4f992c5f",
     "datum_pridani": "2026-03-18T16:39:49.251987+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8423033364-klocki-lego-rozne-zestawy-ok-7-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8423033364-klocki-lego-rozne-zestawy-ok-7-kg?referrer=catalog",
@@ -11961,7 +11929,7 @@
     "price": "2607,38 Kč",
     "img": "https://images1.vinted.net/t/05_0114d_vUFiSCL8QTnpSJo57kzRft2X/310x430/1773821308.webp?s=558a26f0d0513f9f82c2eee3ed2f8b29111d8265",
     "datum_pridani": "2026-03-18T16:39:49.251987+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8427917927-lego-mix-3-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8427917927-lego-mix-3-kg?referrer=catalog",
@@ -11984,7 +11952,7 @@
     "price": "289,71 Kč",
     "img": "https://images1.vinted.net/t/06_009dd_xV2fCrBywtjTGiTgQAnsfC3i/310x430/1773855697.webp?s=413e5467c7f1b8322829210d069cf8153f60fc25",
     "datum_pridani": "2026-03-18T18:05:24.194470+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/8427880536-lego-friends-mix-figurki-zwierzeta-akcesoria-i-inne-kg?referrer=catalog": {
@@ -11996,7 +11964,7 @@
     "price": "1042,95 Kč",
     "img": "https://images1.vinted.net/t/06_02141_gc3uRzx6MsCA9ayF8i7GuVrU/310x430/1773855576.webp?s=6be1a0e48ac0749f94451ed76e98215185df9303",
     "datum_pridani": "2026-03-18T18:05:24.194470+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8427639202-lego-mix-klockow-lego-12kg-z-minifigurkami-i-instrukcjami?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8427639202-lego-mix-klockow-lego-12kg-z-minifigurkami-i-instrukcjami?referrer=catalog",
@@ -12019,8 +11987,8 @@
     "price": "5794,17 Kč",
     "img": "https://images1.vinted.net/t/05_01a88_sdiTkXzaKZEQgCdTSzhAuHca/310x430/1773835574.webp?s=7300031eaf1d7e89106a834bb4172d4c43e80e51",
     "datum_pridani": "2026-03-18T18:05:24.194470+00:00",
-    "posledni_videno": "2026-03-21T19:34:12.700329+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8424493071-klocki-lego-mix-2kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8424493071-klocki-lego-mix-2kg?referrer=catalog",
@@ -12055,7 +12023,7 @@
     "price": "1153,04 Kč",
     "img": "https://images1.vinted.net/t/05_00049_AuzuJ8VyfYjJuyssEe81SL5a/310x430/1773859987.webp?s=1acc3aa833484ec064d9de066c36c0eb4cb7217e",
     "datum_pridani": "2026-03-18T19:32:25.417241+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8429199413-klocki-lego-mieszane-1kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8429199413-klocki-lego-mieszane-1kg?referrer=catalog",
@@ -12066,7 +12034,7 @@
     "price": "405,59 Kč",
     "img": "https://images1.vinted.net/t/03_020ed_aHQSCnATG1nN5Pfz4hpNJ6pj/310x430/1773865650.webp?s=c6a3ecbaa0d6ae29f2002d5c36794d5ff441c9b3",
     "datum_pridani": "2026-03-18T20:51:42.960544+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/8429179307-lego-mix-klockow-11-kg?referrer=catalog": {
@@ -12078,7 +12046,7 @@
     "price": "4519,45 Kč",
     "img": "https://images1.vinted.net/t/05_02265_mZUz6nisYdhM9JwESyqx7YRK/310x430/1773865485.webp?s=4bee2bab2a13d146dbc61ea3a7df63d311c3a0c7",
     "datum_pridani": "2026-03-18T20:51:42.960544+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8429143659-klocki-kompatybilne-z-lego-mix-1235-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8429143659-klocki-kompatybilne-z-lego-mix-1235-kg?referrer=catalog",
@@ -12100,7 +12068,7 @@
     "price": "8685,47 Kč",
     "img": "https://images1.vinted.net/t/04_0039c_2ars8tMZRsG93JFBMmAEmyQ2/310x430/1773863877.webp?s=3fa3d1e0efb2a99a16ab450b25d72ea1a8675b51",
     "datum_pridani": "2026-03-18T20:51:42.960544+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8428798979-duzy-zestaw-klockow-lego-ok-78-kg-glownie-lego-friends?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8428798979-duzy-zestaw-klockow-lego-ok-78-kg-glownie-lego-friends?referrer=catalog",
@@ -12110,7 +12078,7 @@
     "price": "2433,55 Kč",
     "img": "https://images1.vinted.net/t/05_00833_VZ8mQBkq9DkLGbfDzrw2tUB4/310x430/1773862434.webp?s=22ab0d1c0691a0e2e5d24509f3c351fedaaf3b9d",
     "datum_pridani": "2026-03-18T20:51:42.960544+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8428768585-mix-klockow-lego-ok-82-kg-glownie-lego-friends-duzy-zestaw?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8428768585-mix-klockow-lego-ok-82-kg-glownie-lego-friends-duzy-zestaw?referrer=catalog",
@@ -12120,7 +12088,7 @@
     "price": "2723,26 Kč",
     "img": "https://images1.vinted.net/t/05_0014d_LREukbWp5HxCAHF7yo65FHXZ/310x430/1773862193.webp?s=4d91908bd8ae5c0722e1c362ecc85f70e0c0cb6a",
     "datum_pridani": "2026-03-18T20:51:42.960544+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8430070049-klocki-lego-mix?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8430070049-klocki-lego-mix?referrer=catalog",
@@ -12155,7 +12123,7 @@
     "price": "867,97 Kč",
     "img": "https://images1.vinted.net/t/01_00af6_Y392DA3mSMuxMdmEKFLe8tik/310x430/1773904926.webp?s=4f34cb33946d7e10e7103c95e20345f314c3c426",
     "datum_pridani": "2026-03-19T07:54:27.905899+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8430070049-klocki-lego-mix-z-ksiazeczkami-wstawie-zdjecia-po-pracy-do-skladania-modeli?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8430070049-klocki-lego-mix-z-ksiazeczkami-wstawie-zdjecia-po-pracy-do-skladania-modeli?referrer=catalog",
@@ -12190,7 +12158,7 @@
     "price": "1000,00 Kč",
     "img": "https://images1.vinted.net/t/05_014bf_FA8TSdtbHKaHubTTaU4TT7Yp/310x430/1773907880.webp?s=0cf3444d077efa165a0a61e6591010d4eca8402b",
     "datum_pridani": "2026-03-19T08:56:27.647149+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8430978083-lego-cobi-mix-cca-3-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8430978083-lego-cobi-mix-cca-3-kg?referrer=catalog",
@@ -12201,7 +12169,7 @@
     "price": "999,00 Kč",
     "img": "https://images1.vinted.net/t/04_0142d_juSTrcAYMtX54xyRpZna3u2q/310x430/1773912264.webp?s=ef9339ff0accba4e9eee99f39f8c8bdd255c096e",
     "datum_pridani": "2026-03-19T09:57:48.353912+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8430914409-personalizowane-lego-mix-od-1-kg-na-wage-tylko-oryginalne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8430914409-personalizowane-lego-mix-od-1-kg-na-wage-tylko-oryginalne?referrer=catalog",
@@ -12248,7 +12216,7 @@
     "price": "463,53 Kč",
     "img": "https://images1.vinted.net/t/06_00b5f_G4KLLcTv9ngFeDDJdrfKpNwJ/310x430/1773916080.webp?s=911e375b8f26cb7f9ff40b219b366420b29615d8",
     "datum_pridani": "2026-03-19T10:55:46.633255+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8431041694-klocki-bricks-lego-i-lego-podobne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8431041694-klocki-bricks-lego-i-lego-podobne?referrer=catalog",
@@ -12259,8 +12227,8 @@
     "price": "573,62 Kč",
     "img": "https://images1.vinted.net/t/06_01a09_PDPL7yxkQisoiBkY48uAqWVM/310x430/1773912786.webp?s=c81e041394e01ef0546be068fda7be7f5c135614",
     "datum_pridani": "2026-03-19T10:55:46.633255+00:00",
-    "posledni_videno": "2026-03-21T20:38:23.814054+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8430575842-duzy-zestaw-klockow-mycraft-09-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8430575842-duzy-zestaw-klockow-mycraft-09-kg?referrer=catalog",
@@ -12319,7 +12287,7 @@
     "price": "434,56 Kč",
     "img": "https://images1.vinted.net/t/01_01a4f_Sb42onPFJPo6ZHdP2FjoAEgV/310x430/1773922320.webp?s=becc619d409d0873664874b1d0aa71b4ea7afa34",
     "datum_pridani": "2026-03-19T13:26:27.020749+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433383212-oryginalne-klocki-lego-w-kolorze-szarym-115-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433383212-oryginalne-klocki-lego-w-kolorze-szarym-115-kg?referrer=catalog",
@@ -12330,7 +12298,7 @@
     "price": "347,65 Kč",
     "img": "https://images1.vinted.net/t/06_00fa7_rrA3VG4YmkhMTH6mcCPjvrEE/310x430/1773930214.webp?s=a9658594a7f0ede52e84bdf2e6eaf31a2da4684f",
     "datum_pridani": "2026-03-19T14:32:16.544338+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433301143-klocki-figurki-smiglowiec-kamper-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433301143-klocki-figurki-smiglowiec-kamper-lego-duplo?referrer=catalog",
@@ -12340,7 +12308,7 @@
     "price": "1680,31 Kč",
     "img": "https://images1.vinted.net/t/01_00204_5aKpXh193ibjR6zzuVjbNUMP/310x430/1773929625.webp?s=a5162e65066f638d1030fd58862aa52ba21a4ca9",
     "datum_pridani": "2026-03-19T14:32:16.544338+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433096686-klocki-lego-mix-1260-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433096686-klocki-lego-mix-1260-kg?referrer=catalog",
@@ -12351,7 +12319,7 @@
     "price": "579,42 Kč",
     "img": "https://images1.vinted.net/t/05_02700_ikki5PbNu9twqhiQRzt1fQHc/310x430/1773928156.webp?s=a026f42a2258989850a00687d5bb470e0ded17c6",
     "datum_pridani": "2026-03-19T14:32:16.544338+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8434078458-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8434078458-lego-duplo?referrer=catalog",
@@ -12362,7 +12330,7 @@
     "price": "1487,94 Kč",
     "img": "https://images1.vinted.net/t/05_01735_RTw6kX7iSpzynN9FfpGZT6T6/310x430/1773935212.webp?s=7e8d495a76ab72b85ed4c042286dceb9a10c8185",
     "datum_pridani": "2026-03-19T16:03:26.590200+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433807570-klocki-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433807570-klocki-lego-duplo?referrer=catalog",
@@ -12373,7 +12341,7 @@
     "price": "1274,72 Kč",
     "img": "https://images1.vinted.net/t/06_02133_JFZRvS69hYacpgEimuLe9XGG/310x430/1773933246.webp?s=1f9bd117537c13c7ca16a40ad18d29108ea9e4c6",
     "datum_pridani": "2026-03-19T16:03:26.590200+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433507402-duzy-zestaw-lego-friends?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433507402-duzy-zestaw-lego-friends?referrer=catalog",
@@ -12408,7 +12376,7 @@
     "price": "173,83 Kč",
     "img": "https://images1.vinted.net/t/06_012f8_Gaz4jsoPNMSzkR8Zbkvtc1eS/310x430/1773939005.webp?s=5b81c0d96918846959dd8d85212cbfdcf7066f3b",
     "datum_pridani": "2026-03-19T17:35:13.377684+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8434584157-lego-technic-luzem-cena-za-025-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8434584157-lego-technic-luzem-cena-za-025-kg?referrer=catalog",
@@ -12419,7 +12387,7 @@
     "price": "260,74 Kč",
     "img": "https://images1.vinted.net/t/06_01e39_texxbicVKKTjP3QKtsKUwZe5/310x430/1773938751.webp?s=c7b96f0c94133baea0d22955ee7fd269c2af2353",
     "datum_pridani": "2026-03-19T17:35:13.377684+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8434531056-klocki-lego-luzem-cena-za-025-kg-dobieraj-dowolnie?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8434531056-klocki-lego-luzem-cena-za-025-kg-dobieraj-dowolnie?referrer=catalog",
@@ -12430,7 +12398,7 @@
     "price": "144,85 Kč",
     "img": "https://images1.vinted.net/t/06_0077b_xdr1w8vbqS5xX3pWFaMNnFhy/310x430/1773938392.webp?s=6b0eaecda6a59306bfcf368407a03a07ce095d47",
     "datum_pridani": "2026-03-19T17:35:13.377684+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8433900229-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8433900229-klocki-lego?referrer=catalog",
@@ -12441,7 +12409,7 @@
     "price": "272,33 Kč",
     "img": "https://images1.vinted.net/t/06_0153e_sotReM9TumZ7aCB6MK6iyygN/310x430/1773936297.webp?s=59aa4c1bbd2310104b322b22f8b883a54ceb0924",
     "datum_pridani": "2026-03-19T17:35:13.377684+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/8435726625-lego-duplo-mix-379-elementow-35-kg?referrer=catalog": {
@@ -12453,7 +12421,7 @@
     "price": "1448,54 Kč",
     "img": "https://images1.vinted.net/t/06_0062c_duRQxPEvEXbNobu4TRo6MuB8/310x430/1773947263.webp?s=5a89dc203d269f466f903bf6757217516fbb7a0f",
     "datum_pridani": "2026-03-19T19:11:31.688232+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8435574709-1-kg-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8435574709-1-kg-lego?referrer=catalog",
@@ -12512,7 +12480,7 @@
     "price": "86,91 Kč",
     "img": "https://images1.vinted.net/t/05_024c4_6x1xcJJTJaXW4pCP5RoH4QDh/310x430/1773955715.webp?s=85c4add9036c0dc1ff7d35e55d2b162d4da1d13f",
     "datum_pridani": "2026-03-19T22:01:55.489879+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8436634023-lego-star-wars-7669-lego-mix-kg-instrukcja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8436634023-lego-star-wars-7669-lego-mix-kg-instrukcja?referrer=catalog",
@@ -12523,7 +12491,7 @@
     "price": "86,91 Kč",
     "img": "https://images1.vinted.net/t/01_0179b_Nvn7X6ahynjDAyDca2vwHmoG/310x430/1773955630.webp?s=f6545d9d236a42704c85af09220f2544b27762d1",
     "datum_pridani": "2026-03-19T22:01:55.489879+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437127346-lego-minifigurki-star-wars-mix-lego-kg-ludziki-minifigures?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437127346-lego-minifigurki-star-wars-mix-lego-kg-ludziki-minifigures?referrer=catalog",
@@ -12534,7 +12502,7 @@
     "price": "1912,08 Kč",
     "img": "https://images1.vinted.net/t/05_0237d_p2yLyDLgboQ7hAfJodBuqVRD/310x430/1773983754.webp?s=0f03ddc9ee5bbe62782068d3752e63a3f4139813",
     "datum_pridani": "2026-03-20T06:00:39.352609+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437232909-klocki-lego-classic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437232909-klocki-lego-classic?referrer=catalog",
@@ -12557,7 +12525,7 @@
     "price": "6373,59 Kč",
     "img": "https://images1.vinted.net/t/05_00519_92wrDiT3V8SXKnYa3aNgmnkd/310x430/1773997091.webp?s=9c3c00fca2afe8e7701148c5ae9826392401d6a5",
     "datum_pridani": "2026-03-20T09:10:04.831001+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437758809-lego-mix-3-kg-personalizowane-pod-chlopaka-lub-dziewczynke?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437758809-lego-mix-3-kg-personalizowane-pod-chlopaka-lub-dziewczynke?referrer=catalog",
@@ -12568,7 +12536,7 @@
     "price": "1303,69 Kč",
     "img": "https://images1.vinted.net/t/06_01503_H43LhiGmNKHa92g6gkx18o9B/310x430/1773996427.webp?s=e78ae9c03a27a181673a1af670aa70f883fc3931",
     "datum_pridani": "2026-03-20T09:10:04.831001+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437557878-stavebnice-lego-a-cobi-1-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437557878-stavebnice-lego-a-cobi-1-kg?referrer=catalog",
@@ -12579,7 +12547,7 @@
     "price": "500,00 Kč",
     "img": "https://images1.vinted.net/t/05_01f94_XE433hnH3K2QfuLeA2vRNCxW/310x430/1773994217.webp?s=432be25cd43b495e5d597e7a97d2ff54b45713b3",
     "datum_pridani": "2026-03-20T09:10:04.831001+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437539483-lego-duplo-55-kg-oryginalne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437539483-lego-duplo-55-kg-oryginalne?referrer=catalog",
@@ -12602,7 +12570,7 @@
     "price": "985,01 Kč",
     "img": "https://images1.vinted.net/t/01_024a0_sFuhBKfLyZiwaqffiE7bM8Rp/310x430/1774003382.webp?s=b9629252b92cf9fa67a4440b5cad46588217241e",
     "datum_pridani": "2026-03-20T11:07:59.603365+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8437740425-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8437740425-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog",
@@ -12637,7 +12605,7 @@
     "price": "521,48 Kč",
     "img": "https://images1.vinted.net/t/06_0014a_FbsgKLiEHkJP9AJsaeW27SWZ/310x430/1774011830.webp?s=4cbd2e1c58dc143b47a61c7b6b393778e5cf308d",
     "datum_pridani": "2026-03-20T13:21:00.523849+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8439152947-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8439152947-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog",
@@ -12660,8 +12628,8 @@
     "price": "1964,22 Kč",
     "img": "https://images1.vinted.net/t/06_001f5_46P5cEpt3sDA3P4fHoQvLx6a/310x430/1774013685.webp?s=23165869ae7126d257563125db61e66f86829a5c",
     "datum_pridani": "2026-03-20T14:27:08.601714+00:00",
-    "posledni_videno": "2026-03-21T20:38:23.814054+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8439960784-klocki-lego-mix-mieszane-1kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8439960784-klocki-lego-mix-mieszane-1kg?referrer=catalog",
@@ -12672,7 +12640,7 @@
     "price": "399,80 Kč",
     "img": "https://images1.vinted.net/t/01_01a38_d1RS6x2cB7PzqA19c2iJe8ME/310x430/1774013616.webp?s=79c5713938f41f334f6a12382e541c0b6ec0a9f0",
     "datum_pridani": "2026-03-20T14:27:08.601714+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8440594586-32-kg-lego-mix-lata-8090?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8440594586-32-kg-lego-mix-lata-8090?referrer=catalog",
@@ -12683,7 +12651,7 @@
     "price": "1651,34 Kč",
     "img": "https://images1.vinted.net/t/04_00ded_ywVY9RRmcaSymTwAwwxPH8C4/310x430/1774018142.webp?s=ffc0ff6f473ae59b12f28351826f227a283b79bb",
     "datum_pridani": "2026-03-20T15:13:58.856106+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8441136685-mix-klockow-lego-duplo-plus-pudelko-do-przechowywania-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8441136685-mix-klockow-lego-duplo-plus-pudelko-do-przechowywania-lego?referrer=catalog",
@@ -12718,7 +12686,7 @@
     "price": "4635,34 Kč",
     "img": "https://images1.vinted.net/t/05_01ec8_a5atThsefGzP8YoxHjeF4JBY/310x430/1774025494.webp?s=cf01c79ff8ecafde483528aaac76f88276e19491",
     "datum_pridani": "2026-03-20T17:12:58.234617+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8441637715-klocki-lego-55-kg-rozne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8441637715-klocki-lego-55-kg-rozne?referrer=catalog",
@@ -12753,7 +12721,7 @@
     "price": "753,24 Kč",
     "img": "https://images1.vinted.net/t/06_019e3_sraqabnmnozy4Eui5dwJbd1j/310x430/1774023861.webp?s=1cbd9392441c18d7c7ea670132dc43d5588c18bc",
     "datum_pridani": "2026-03-20T17:12:58.234617+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8442227771-lego-mix-miks-klockow-lego-2kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8442227771-lego-mix-miks-klockow-lego-2kg?referrer=catalog",
@@ -12764,7 +12732,7 @@
     "price": "724,27 Kč",
     "img": "https://images1.vinted.net/t/05_00ce8_AP1sZsqhoQE97bWoj75ZLfQy/310x430/1774029782.webp?s=ca84e19ebd5de53c9868c27065c47855b04ee937",
     "datum_pridani": "2026-03-20T18:05:12.681090+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8442210763-mix-klockow?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8442210763-mix-klockow?referrer=catalog",
@@ -12798,7 +12766,7 @@
     "price": "927,07 Kč",
     "img": "https://images1.vinted.net/t/06_01f08_YEwTGsZmuMitXouMcaFMNvx8/310x430/1774027620.webp?s=070d4fc8c9b857e6e42e6055ddf70f13d9c92717",
     "datum_pridani": "2026-03-20T18:05:12.681090+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8441889268-klocki-lego-belville-24-kg-oryginalne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8441889268-klocki-lego-belville-24-kg-oryginalne?referrer=catalog",
@@ -12844,8 +12812,8 @@
     "price": "1112,48 Kč",
     "img": "https://images1.vinted.net/t/06_0030b_uT8qjwkFwv2um7YRcPaSG7xd/310x430/1774033001.webp?s=6ed63ea9c2d3e2cba41c2156e47e7a28fa69ab9f",
     "datum_pridani": "2026-03-20T19:23:36.989451+00:00",
-    "posledni_videno": "2026-03-21T14:01:27.191185+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/8442276008-lego-mix-ok-2-kg-klocki-rozne-czesci-specjalne-figurki?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8442276008-lego-mix-ok-2-kg-klocki-rozne-czesci-specjalne-figurki?referrer=catalog",
@@ -12892,7 +12860,7 @@
     "price": "2317,67 Kč",
     "img": "https://images1.vinted.net/t/05_01fd1_nRT9u92qctgktEHpJ3SpXraD/310x430/1774036307.webp?s=30244ec91ecdc5ca01dd51a2e5beb9c9c948551c",
     "datum_pridani": "2026-03-20T20:00:01.013796+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8441632396-lego-10kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8441632396-lego-10kg?referrer=catalog",
@@ -12915,7 +12883,7 @@
     "price": "451,95 Kč",
     "img": "https://images1.vinted.net/t/04_02561_M96rf9h5fFZemVGXe5aTrXZN/310x430/1774040893.webp?s=a463590cd4d718ff905015fda22a9925eb3430c7",
     "datum_pridani": "2026-03-20T21:40:10.723839+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8443403709-klocki-lego-dla-chlopca-1-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8443403709-klocki-lego-dla-chlopca-1-kg?referrer=catalog",
@@ -12926,7 +12894,7 @@
     "price": "451,95 Kč",
     "img": "https://images1.vinted.net/t/01_00e1e_gptzqyu6w6S1LtKAFrHWSomN/310x430/1774040634.webp?s=b6eb177f9f1ef943c4e687ffdf397a928f0d884d",
     "datum_pridani": "2026-03-20T21:40:10.723839+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8443348992-klocki-lego-ponad-6-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8443348992-klocki-lego-ponad-6-kg?referrer=catalog",
@@ -12937,7 +12905,7 @@
     "price": "1738,25 Kč",
     "img": "https://images1.vinted.net/t/01_02200_fnDaCBgqQdaStpeBZA3RtK4b/310x430/1774040021.webp?s=1b89fb3d98df7f72bc4e98b24b95730e47c1e497",
     "datum_pridani": "2026-03-20T21:40:10.723839+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8444085217-klocki-kompatybilne-z-lego-mix-1110-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8444085217-klocki-kompatybilne-z-lego-mix-1110-kg?referrer=catalog",
@@ -13007,7 +12975,7 @@
     "price": "144,85 Kč",
     "img": "https://images1.vinted.net/t/06_01e5a_xzGzmXQdzWrY7XTma9tUAZ35/310x430/1774085084.webp?s=983bc3b51f3eb37753f8ca540bdeb2a052b6b834",
     "datum_pridani": "2026-03-21T09:42:10.609656+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8444989874-lego-mix-biale-2?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8444989874-lego-mix-biale-2?referrer=catalog",
@@ -13018,7 +12986,7 @@
     "price": "231,77 Kč",
     "img": "https://images1.vinted.net/t/05_02104_MheW3Qj9mZRdFX3hU7nyipAX/310x430/1774084868.webp?s=8357bb1af04ff894a7aad4e405670f9081165f4e",
     "datum_pridani": "2026-03-21T09:42:10.609656+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8444948272-duzy-zestaw-lego-friends?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8444948272-duzy-zestaw-lego-friends?referrer=catalog",
@@ -13077,7 +13045,7 @@
     "price": "2317,67 Kč",
     "img": "https://images1.vinted.net/t/03_009e4_CebTNCecsVUGVNZEt6g9YKR4/310x430/1774092505.webp?s=b2288cb3950f44fbaf29723b6e5fd65a5e22786a",
     "datum_pridani": "2026-03-21T11:32:06.155775+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8445705935-klocki-duplo-mix?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8445705935-klocki-duplo-mix?referrer=catalog",
@@ -13088,7 +13056,7 @@
     "price": "2897,09 Kč",
     "img": "https://images1.vinted.net/t/06_01088_fpnoPH5exPqQMzdrpWue8552/310x430/1774089305.webp?s=1a2114e055cb6dd6e601110a6c412360364c0cd5",
     "datum_pridani": "2026-03-21T11:32:06.155775+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8446484380-klocki-lego-6-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8446484380-klocki-lego-6-kg?referrer=catalog",
@@ -13099,7 +13067,7 @@
     "price": "2317,67 Kč",
     "img": "https://images1.vinted.net/t/06_000ba_b2x8UmLRxkapWfZWiSxWoP2T/310x430/1774093789.webp?s=7de34c5d6ad341b10f77097479d90dbcdc3642ec",
     "datum_pridani": "2026-03-21T11:53:42.059300+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8447268788-3-kg-klockow-lego-roznego-rodzaju-pomieszane-zestawy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8447268788-3-kg-klockow-lego-roznego-rodzaju-pomieszane-zestawy?referrer=catalog",
@@ -13110,7 +13078,7 @@
     "price": "1448,54 Kč",
     "img": "https://images1.vinted.net/t/06_00487_ZVFVtxUdnRt1TFcpaFmcZD3F/310x430/1774098354.webp?s=5f82c1ab942960a81b6aeb2032e808b767cbbebd",
     "datum_pridani": "2026-03-21T13:08:38.172789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8446984344-1-kg-bileho-lega?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8446984344-1-kg-bileho-lega?referrer=catalog",
@@ -13121,7 +13089,7 @@
     "price": "600,00 Kč",
     "img": "https://images1.vinted.net/t/06_01e60_T82rqdSfGo1nZfc78VmjTgKh/310x430/1774096729.webp?s=8293853b74487146b27372a1799bba9ae7c129ce",
     "datum_pridani": "2026-03-21T13:08:38.172789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8446791932-lego-duplo-10883-muj-prvni-odtahovy-vuz?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8446791932-lego-duplo-10883-muj-prvni-odtahovy-vuz?referrer=catalog",
@@ -13132,7 +13100,7 @@
     "price": "149,00 Kč",
     "img": "https://images1.vinted.net/t/06_0044d_9nhWbWxDyDhdmwUJYXz3kfvc/310x430/1774095601.webp?s=5f3e1209806be7e72895d187d28f8135bee3c53a",
     "datum_pridani": "2026-03-21T13:08:38.172789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8441632396-lego-2kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8441632396-lego-2kg?referrer=catalog",
@@ -13143,7 +13111,7 @@
     "price": "869,13 Kč",
     "img": "https://images1.vinted.net/t/06_00cae_mimaeQP5iLTYW8FM5v59wE21/310x430/1774093592.webp?s=b597c9396a5ba7328e10483eaf00962c652f544f",
     "datum_pridani": "2026-03-21T13:08:38.172789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8447389336-lego-kostky-mix-05kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8447389336-lego-kostky-mix-05kg?referrer=catalog",
@@ -13154,7 +13122,7 @@
     "price": "120,00 Kč",
     "img": "https://images1.vinted.net/t/05_01dfb_g7h1esh5bsC2BBEXhPjpdHJB/310x430/1774099026.webp?s=8d72ff58ffae21d4d3abc0eeafa2a6d18049273c",
     "datum_pridani": "2026-03-21T14:01:27.191185+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8446702347-zestaw-klockow-lego-duplo-mix-ok-4-kg-samochody-wyscigowe-sklepik-i-inne-do-budowania?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8446702347-zestaw-klockow-lego-duplo-mix-ok-4-kg-samochody-wyscigowe-sklepik-i-inne-do-budowania?referrer=catalog",
@@ -13225,7 +13193,7 @@
     "price": "1158,83 Kč",
     "img": "https://images1.vinted.net/t/06_01886_EiMLXjwCZgi1jtrni4DaKP1M/310x430/1774104417.webp?s=c2f33215deef268d6d3880169984095bf1e89dc6",
     "datum_pridani": "2026-03-21T15:36:05.789751+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8449606387-cobi-i-inne-klocki-mix-ok-4-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8449606387-cobi-i-inne-klocki-mix-ok-4-kg?referrer=catalog",
@@ -13236,7 +13204,7 @@
     "price": "463,53 Kč",
     "img": "https://images1.vinted.net/t/06_0014d_gvc5TkGcLNT7KVTf66jgPCNM/310x430/1774111157.webp?s=f47833967d758633cd5ef1137361789ecc4e4621",
     "datum_pridani": "2026-03-21T16:41:44.320553+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8449210985-klocki-unico?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8449210985-klocki-unico?referrer=catalog",
@@ -13247,7 +13215,7 @@
     "price": "405,59 Kč",
     "img": "https://images1.vinted.net/t/01_00f6d_aVH2SZCJGYevtqVtJEExJVX8/310x430/1774108986.webp?s=d92ae7488016fc11a9e6c219535b98e1d5dbea8f",
     "datum_pridani": "2026-03-21T16:41:44.320553+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8449172088-35-kg-klockow-cobi?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8449172088-35-kg-klockow-cobi?referrer=catalog",
@@ -13258,7 +13226,7 @@
     "price": "1448,54 Kč",
     "img": "https://images1.vinted.net/t/06_0237b_hPBD6BDvR7J4dE8k4phoDK2u/310x430/1774108774.webp?s=5faaafa3d950f00458c7d352656b54813c7aef28",
     "datum_pridani": "2026-03-21T16:41:44.320553+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8449074775-lego-duplo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8449074775-lego-duplo?referrer=catalog",
@@ -13269,7 +13237,7 @@
     "price": "1300,00 Kč",
     "img": "https://images1.vinted.net/t/05_0014d_XPTNDMiKvc4zgWhWtQsChPBo/310x430/1774108247.webp?s=12698ffd1b0ac7e75f3a7272e8105e5828592656",
     "datum_pridani": "2026-03-21T16:41:44.320553+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8447515146-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8447515146-klocki-lego-mix-ok-4kg-zielone-plytki-25x25-katalogi?referrer=catalog",
@@ -13292,7 +13260,7 @@
     "price": "4200,78 Kč",
     "img": "https://images1.vinted.net/t/05_025d7_cAiCaY1rPFhQHTMiGX9QHruP/310x430/1774117400.webp?s=d11da355896cf75a0cdf9b876a52f2b3527e43a0",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450501412-klocki-lego-25-kg-calosc-80zl?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450501412-klocki-lego-25-kg-calosc-80zl?referrer=catalog",
@@ -13302,7 +13270,7 @@
     "price": "463,53 Kč",
     "img": "https://images1.vinted.net/t/05_0124a_FH3m5Rr6UYReQxFBBjftvzzr/310x430/1774116632.webp?s=10426f8f9768144131139a1efaa2f124f3596e00",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450453350-mix-klockow-lego-czesciowo-zlozony-samolot-i-ksiazeczka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450453350-mix-klockow-lego-czesciowo-zlozony-samolot-i-ksiazeczka?referrer=catalog",
@@ -13313,7 +13281,7 @@
     "price": "376,62 Kč",
     "img": "https://images1.vinted.net/t/06_004c0_H6DfWofA6hmPEZB25nVXCtD9/310x430/1774116293.webp?s=97877abfecbdcdd8ee4a97420fb167a6cef2a0c4",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450436778-mix-klocki-lego-kg-33kg-original-zestaw?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450436778-mix-klocki-lego-kg-33kg-original-zestaw?referrer=catalog",
@@ -13324,7 +13292,7 @@
     "price": "1158,83 Kč",
     "img": "https://images1.vinted.net/t/05_021b8_KamLMKGsaVEoYP4Y1uHsr42p/310x430/1774116176.webp?s=64c8bbd729b719ad94e3d0810088a4d6569c15f6",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450342546-klocki-lego-prawie-3-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450342546-klocki-lego-prawie-3-kg?referrer=catalog",
@@ -13335,7 +13303,7 @@
     "price": "1100,89 Kč",
     "img": "https://images1.vinted.net/t/05_01ae8_YSqpxCbbHyoYmt91djqH3Gqo/310x430/1774115543.webp?s=e8a34e2b9f6831ce4f4c28fd569e84b6dadeca8d",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8448406734-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8448406734-klocki-lego?referrer=catalog",
@@ -13358,7 +13326,7 @@
     "price": "200,00 Kč",
     "img": "https://images1.vinted.net/t/05_01d57_QBoVFVVoSeMeW5Ns9KggUn8P/310x430/1774096951.webp?s=4fc2847f323371cfd8a65df4b986158532d57db1",
     "datum_pridani": "2026-03-21T18:50:33.928789+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8410757101-saszetki-lego-star-wras?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8410757101-saszetki-lego-star-wras?referrer=catalog",
@@ -13381,7 +13349,7 @@
     "price": "3476,45 Kč",
     "img": "https://images1.vinted.net/t/01_01c3d_fgG7hM1Ve5CBHrBUbFUNFdRe/310x430/1774119516.webp?s=2e577d0b1fecfaff886e1577ca3a150766459b9a",
     "datum_pridani": "2026-03-21T19:34:12.700329+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450856160-lego-mix-3kg-tylko-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450856160-lego-mix-3kg-tylko-lego?referrer=catalog",
@@ -13404,7 +13372,7 @@
     "price": "289,71 Kč",
     "img": "https://images1.vinted.net/t/06_02562_SKvQ6NZmCqzN3KKvmZz1crtQ/310x430/1774119121.webp?s=42abfcb067c63acbe127fb18cc4ed60ddb8ef39c",
     "datum_pridani": "2026-03-21T19:34:12.700329+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8450825415-lego-mix-142kg-ponad-100-figurek-instrukcje?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8450825415-lego-mix-142kg-ponad-100-figurek-instrukcje?referrer=catalog",
@@ -13415,7 +13383,7 @@
     "price": "5794,11 Kč",
     "img": "https://images1.vinted.net/t/06_00ff9_d4a7PyZ3SvAs6dW4wfevBPJG/310x430/1774119084.webp?s=6c2efadcf8a565c9166c9d49b149d40493b4f547",
     "datum_pridani": "2026-03-21T19:34:12.700329+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8451254651-mix-lego-duplo-1-kg-1-kilogram-okolo-100-sztuk?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8451254651-mix-lego-duplo-1-kg-1-kilogram-okolo-100-sztuk?referrer=catalog",
@@ -13426,7 +13394,7 @@
     "price": "492,50 Kč",
     "img": "https://images1.vinted.net/t/06_0114f_ubGCkDoXokDzi2QMSJ7KiKY7/310x430/1774122729.webp?s=2a8bb6e45fd38605b858779b7c8de1df7fb4d4c0",
     "datum_pridani": "2026-03-21T20:38:23.814054+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   },
   "https://www.vinted.cz/items/8451672902-oryginalne-klocki-lego-mix-1kg-czyste-rozne-elementy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/8451672902-oryginalne-klocki-lego-mix-1kg-czyste-rozne-elementy?referrer=catalog",
@@ -13437,6 +13405,28 @@
     "price": "405,59 Kč",
     "img": "https://images1.vinted.net/t/06_01261_DLUeJFxgRRTve7VXnWNukCqq/310x430/1774126811.webp?s=4954ddca12b73d778176a5b3f72ce6f40d6b6abf",
     "datum_pridani": "2026-03-21T21:35:00.230922+00:00",
-    "posledni_videno": "2026-03-21T21:35:00.230922+00:00"
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
+  },
+  "https://www.vinted.cz/items/8451483175-nahodne-lego-kosticky?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8451483175-nahodne-lego-kosticky?referrer=catalog",
+    "title": "Náhodné lego kostičky",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "50,00 Kč",
+    "img": "https://images1.vinted.net/t/06_01993_zfepZU6S5PWkkTkgLP5mvXj5/310x430/1774124850.webp?s=1189802c7f1448c51ab0df48a6e6689bf505692a",
+    "datum_pridani": "2026-03-21T22:35:51.588231+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
+  },
+  "https://www.vinted.cz/items/8451208911-lego-dily-mix?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/8451208911-lego-dily-mix?referrer=catalog",
+    "title": "LEGO díly mix",
+    "brand": "LEGO",
+    "condition": "Velmi dobrý",
+    "size": "Univerzální",
+    "price": "240,00 Kč",
+    "img": "https://images1.vinted.net/t/05_00596_7mPE4fm8ZpW4zhg1NgZURYvF/310x430/1774122328.webp?s=c5e004180c7ac9dfd60c2e63352b82732eb6b496",
+    "datum_pridani": "2026-03-21T22:35:51.588231+00:00",
+    "posledni_videno": "2026-03-21T22:35:51.588231+00:00"
   }
 }
