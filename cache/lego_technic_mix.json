@@ -4911,7 +4911,7 @@
     "img": "https://images1.vinted.net/t/02_005d2_L1Tcgcp2xGEUVemdNUQK8QtR/310x430/5491d3d6.webp?s=c4451d9bd18c093cdd0632ce2412083bab775e07",
     "datum_pridani": "2026-10-15T19:21:05.698057+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10389681331-lego-technic-wyscigowy-lazik-terenowy-42164?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10389681331-lego-technic-wyscigowy-lazik-terenowy-42164?referrer=catalog",
@@ -5361,7 +5361,7 @@
     "img": "https://images1.vinted.net/t/06_01047_jjGcdM9fLMzE7GNgShSXSmpb/310x430/666320af.webp?s=cef063cf1d7174a3df871459a389cf6a2d192729",
     "datum_pridani": "2026-10-16T16:30:26.444712+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10400940760-stavebnice-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10400940760-stavebnice-auto?referrer=catalog",
@@ -5630,8 +5630,8 @@
     "price": "100,00 Kč",
     "img": "https://images1.vinted.net/t/06_01e09_o1QpfDrZV2p8VYrH3tpK9KRW/310x430/805f5cf2.webp?s=4a089a477c205320648ba6a10f3335dd999b65f3",
     "datum_pridani": "2026-10-16T19:41:18.212206+00:00",
-    "posledni_videno": "2026-10-22T13:09:01.453425+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10398967872-lego-instrukcje-10-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10398967872-lego-instrukcje-10-kg?referrer=catalog",
@@ -6089,7 +6089,7 @@
     "price": "369,23 Kč",
     "img": "https://images1.vinted.net/t/06_01522_d3CwnZcBdgcZVuTHEw9TTD6k/310x430/f344ca07.webp?s=8109d80568cbdae9259e2fdf5ba353246831ff65",
     "datum_pridani": "2026-10-17T17:29:53.377361+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10415827687-lego-mix-pro-stavitele?referrer=catalog": {
@@ -6126,7 +6126,7 @@
     "img": "https://images1.vinted.net/t/02_01211_aJTnggiYVF9A2P8qJhmW31TL/310x430/d5379ac7.webp?s=238687dac17515bf49e6d787cc554c5d05a5dcbf",
     "datum_pridani": "2026-10-17T17:29:53.377361+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10414582012-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10414582012-lego-technic?referrer=catalog",
@@ -6350,7 +6350,8 @@
     "price": "112,25 Kč",
     "img": "https://images1.vinted.net/t/02_0089b_a9bbK4NycGzxBRZ1PBR3eL8C/310x430/01b97b41.webp?s=087bce56bdd5fc9f1e03c7261de85a1a63ce65f8",
     "datum_pridani": "2026-10-17T22:10:15.780788+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10417716668-lego-technic-quad-zestaw-nr-9392-z-2012-roku-zawierajacy-199?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10417716668-lego-technic-quad-zestaw-nr-9392-z-2012-roku-zawierajacy-199?referrer=catalog",
@@ -6592,7 +6593,7 @@
     "price": "2400,00 Kč",
     "img": "https://images1.vinted.net/t/06_020f4_YWYNSfr7JVryPLjzXZ8zL9tJ/310x430/4ed38241.webp?s=f303340ee12d9ae006994fd6b5e20e5c6d2c2e7b",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10426423211-stavebnica?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10426423211-stavebnica?referrer=catalog",
@@ -6615,11 +6616,11 @@
   "https://www.vinted.cz/items/10426179101-klocki-cada-2w1-betoniarka-i-podnosnik?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10426179101-klocki-cada-2w1-betoniarka-i-podnosnik?referrer=catalog",
     "title": "Klocki Cada 2w1  betoniarka i podnośnik, Značka: CaDA, Stav: Nový s visačkou, Velikost: 116–121 cm / 6 let",
-    "price": "281,82 Kč",
+    "price": "280,63 Kč",
     "img": "https://images1.vinted.net/t/05_00d67_kmPHGnYrjt88ykQpA9rU7hAr/310x430/35f606fc.webp?s=6d59ad091f46e5ad0e9f75cfdd21e004e0eafda0",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10426108803-lego-technic-instrukcje?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10426108803-lego-technic-instrukcje?referrer=catalog",
@@ -6628,7 +6629,7 @@
     "img": "https://images1.vinted.net/t/02_00ae7_aQkfXV4QC9hKb8fTykqNiBGE/310x430/f57857c6.webp?s=9c5c1e9123b4d574bf695f304c4743cc3546c3a5",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10425920740-legor-technic-mix-stavebnic-42046-42047-42090?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10425920740-legor-technic-mix-stavebnic-42046-42047-42090?referrer=catalog",
@@ -6636,7 +6637,7 @@
     "price": "515,95 Kč",
     "img": "https://images1.vinted.net/t/05_01066_kYazrEPUgEYHKDEQ1oK9GanF/310x430/b31b9041.webp?s=12eb3ab0b0622cd11f4fbe55f6426c88d6afd0f4",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10425781849-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10425781849-lego-technic?referrer=catalog",
@@ -6653,7 +6654,7 @@
     "price": "1122,51 Kč",
     "img": "https://images1.vinted.net/t/05_009c4_4revWJSuut69jmkyrwUvbdgM/310x430/171e6c14.webp?s=ec0258bb772608736dc523799c34105083f5f025",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10424940946-lego-technic-ultralekki-helikopter-42057?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10424940946-lego-technic-ultralekki-helikopter-42057?referrer=catalog",
@@ -6706,8 +6707,8 @@
     "price": "239,00 Kč",
     "img": "https://images1.vinted.net/t/05_00122_P3W4zukBEPLjtCoFG15ETFBL/310x430/ff2cd4f9.webp?s=50234a0bc03f0e66dc7d79939e6ccd67ff818a77",
     "datum_pridani": "2026-10-18T13:54:32.945946+00:00",
-    "posledni_videno": "2026-10-22T07:26:10.599333+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10422603462-autko-klocki-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10422603462-autko-klocki-lego?referrer=catalog",
@@ -6797,7 +6798,7 @@
     "img": "https://images1.vinted.net/t/04_02036_zcGk5hHszj3ztwuzg2g1mkxC/310x430/541b3315.webp?s=d13653f344579a4611428deb1dcf379a47ee52d9",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10431106805-lego-technic-sada?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10431106805-lego-technic-sada?referrer=catalog",
@@ -6805,7 +6806,7 @@
     "price": "800,00 Kč",
     "img": "https://images1.vinted.net/t/05_008d5_BhnLhV4hdGzchtu4bap44Dn3/310x430/0d0d6165.webp?s=6ee29698b2ee56b839524612298099a496c3281f",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10430882067-klocki-lego-9-kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10430882067-klocki-lego-9-kg?referrer=catalog",
@@ -6822,7 +6823,7 @@
     "price": "300,00 Kč",
     "img": "https://images1.vinted.net/t/02_0263e_oxvz7yU3ZyH8zYMuFKunH46L/310x430/95dfd6cf.webp?s=2f74fc4daa620c5c761464d97d9bcab112ccf2ec",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10430301138-klocki-lego-mix-zestaw-elementy-technic-creator-minecraft-oryginalne?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10430301138-klocki-lego-mix-zestaw-elementy-technic-creator-minecraft-oryginalne?referrer=catalog",
@@ -6830,7 +6831,8 @@
     "price": "162,76 Kč",
     "img": "https://images1.vinted.net/t/01_02349_Xj4S8V8LLk1cmQeBpgLxvnYw/310x430/12291003.webp?s=37f91e7d60fdc111c1cc6877b8ec26979a37ed99",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10429602079-lego-helikoptera?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10429602079-lego-helikoptera?referrer=catalog",
@@ -6839,7 +6841,7 @@
     "img": "https://images1.vinted.net/t/02_01505_Fed5tHweTTmdkufp7McwRyjB/310x430/7c370e45.webp?s=cd008381e22d968a5096b5bd92fb4e154f6696cd",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10428663383-lego-technic-mix?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10428663383-lego-technic-mix?referrer=catalog",
@@ -6857,7 +6859,7 @@
     "img": "https://images1.vinted.net/t/02_01806_QaPeny4kRfQzBWpnGE4JDkhE/310x430/1f63af46.webp?s=6a4a82efe450dfa8f5223b4129355b5fb8f40103",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10426016178-chevrolet-corvette-zr1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10426016178-chevrolet-corvette-zr1?referrer=catalog",
@@ -6875,7 +6877,7 @@
     "img": "https://images1.vinted.net/t/04_0170d_Lv6QJ9jqETtDEqayzm7Ew31c/310x430/0a6dda93.webp?s=232dad399320c6828d26e799834079548e14ae4f",
     "datum_pridani": "2026-10-18T17:13:58.515912+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10425205160-katalog-lego-200?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10425205160-katalog-lego-200?referrer=catalog",
@@ -6919,7 +6921,7 @@
     "price": "168,38 Kč",
     "img": "https://images1.vinted.net/t/02_01835_QbSg2UKqwB8EZkChfPJvzirj/310x430/89c08172.webp?s=49b2651123b45eace5ec22bd75d8e11dae1496fc",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10434154772-lego-8505?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10434154772-lego-8505?referrer=catalog",
@@ -6937,7 +6939,7 @@
     "img": "https://images1.vinted.net/t/06_025fc_vJZK9WNB7ar9j1UoCQzM95aX/310x430/7bead483.webp?s=da29cd168901fe43b0bfa8347b504a34f5352351",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10433514429-motorka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10433514429-motorka?referrer=catalog",
@@ -6946,7 +6948,7 @@
     "img": "https://images1.vinted.net/t/02_01b43_fEWXXTW3FhPjxSjVUgfjXsX2/310x430/eb0396cc.webp?s=85042fecf02799100ba7d6ea603070519027f8db",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10433491240-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10433491240-lego?referrer=catalog",
@@ -6954,7 +6956,7 @@
     "price": "122,84 Kč",
     "img": "https://images1.vinted.net/t/01_019fa_mKoMB46MVtqRQvU6rz1zZCug/310x430/af0d770c.webp?s=ca1c0911b2f12b1e35c81cb11dbcf4a79f2e148d",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10432987044-stavebnice?referrer=catalog": {
@@ -6963,8 +6965,8 @@
     "price": "440,00 Kč",
     "img": "https://images1.vinted.net/t/06_0168a_dzBaBBWPD47oQWaYiV9CLA3F/310x430/9b27b045.webp?s=97d17092e48446dfeec3ee0417ed78e173ac9971",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10432871752-dwa-samochody-lego-technic-42104-i-42047?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10432871752-dwa-samochody-lego-technic-42104-i-42047?referrer=catalog",
@@ -6999,7 +7001,7 @@
     "price": "56,13 Kč",
     "img": "https://images1.vinted.net/t/02_01963_cURnCG87HASkPaXMmAB4S3Wd/310x430/87cb801c.webp?s=924f325f61f489394329579bdb5c7eed2df736c2",
     "datum_pridani": "2026-10-18T19:35:31.720938+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10429663478-lego-technic-42164-wyscigowy-lazik-terenowy-kompletny-zestaw-z-pudelkiem?referrer=catalog": {
@@ -7090,7 +7092,7 @@
     "img": "https://images1.vinted.net/t/05_00131_nzcKDcXamJSZrUFrRX8wLQn8/310x430/957a5bdf.webp?s=7fc119ffa2be6c86a7525a50d32306dac627c226",
     "datum_pridani": "2026-10-19T00:25:09.574373+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10431177045-klocki-lego-technic-zestaw-42117-samolot-wyscigowy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10431177045-klocki-lego-technic-zestaw-42117-samolot-wyscigowy?referrer=catalog",
@@ -7099,7 +7101,7 @@
     "img": "https://images1.vinted.net/t/02_00991_VihFCDcYGhbW11vgjeobJDV5/310x430/7a75c649.webp?s=2460af078824504163a2c6f4b5c09f9bfc0eb021",
     "datum_pridani": "2026-10-19T00:25:09.574373+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10424389514-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10424389514-lego-technic?referrer=catalog",
@@ -7144,7 +7146,7 @@
     "img": "https://images1.vinted.net/t/01_01996_9rNJZ4RMJ1dgWkbAe2AeJc1M/310x430/27861863.webp?s=e245a899f13f7328544b5b56c72a16804731bc42",
     "datum_pridani": "2026-10-19T05:10:42.879603+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10441501139-nowy-zestaw-lego-technice?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10441501139-nowy-zestaw-lego-technice?referrer=catalog",
@@ -7152,7 +7154,7 @@
     "price": "449,00 Kč",
     "img": "https://images1.vinted.net/t/05_018fb_Wbzdv7sZjf1kUq5BdQzAhQcd/310x430/4464218a.webp?s=fa16ea2deb388cba80d4fb99031f207f67279a4a",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10441300066-zestaw-instrukcji-lego-mix-city-star-wars-atlantis-technic-retro-unikat-paczka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10441300066-zestaw-instrukcji-lego-mix-city-star-wars-atlantis-technic-retro-unikat-paczka?referrer=catalog",
@@ -7160,7 +7162,7 @@
     "price": "364,81 Kč",
     "img": "https://images1.vinted.net/t/02_00ad5_umXWajZUjUkLRRcQfr79a3q6/310x430/2f295168.webp?s=0b02ccac39f9cdba3f6f912556780595af93610e",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10440048405-lego-mighty-machines?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10440048405-lego-mighty-machines?referrer=catalog",
@@ -7178,7 +7180,7 @@
     "img": "https://images1.vinted.net/t/06_01138_p8gA8MAbCyBoc6fhBYJ2JLku/310x430/6ea33420.webp?s=e6c833d0adb3c36f415d330611db203718fe960c",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10439668022-lego-technic-42000?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10439668022-lego-technic-42000?referrer=catalog",
@@ -7186,7 +7188,7 @@
     "price": "1544,05 Kč",
     "img": "https://images1.vinted.net/t/06_00651_2KEaEHpk6KgeWz4SCXABLdbX/310x430/2efcb5bc.webp?s=f836e9e8ed2bdd80ddf8a3d0dfcc420e70f4039b",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10439285384-klocki-blocks-oczyszczarka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10439285384-klocki-blocks-oczyszczarka?referrer=catalog",
@@ -7194,7 +7196,7 @@
     "price": "162,76 Kč",
     "img": "https://images1.vinted.net/t/05_01048_PWNAAiEVYbBNJUnYFZMNzh87/310x430/d81c081e.webp?s=8b14baa7748046c294b2b61f377abb0c8783372a",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10436664062-mix-klockow-lego-z-podelkiem?referrer=catalog": {
@@ -7212,7 +7214,7 @@
     "price": "180,00 Kč",
     "img": "https://images1.vinted.net/t/02_01732_vSCEyrma5cjp5qvegH8fcnnv/310x430/430c4aa8.webp?s=bdeb999a116d030f30ed5991dbd9130aa461e650",
     "datum_pridani": "2026-10-19T11:09:19.008984+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10434413942-lego-8500?referrer=catalog": {
@@ -7257,7 +7259,7 @@
     "price": "224,50 Kč",
     "img": "https://images1.vinted.net/t/04_00206_hzSacwDQDJYkRwfyq3faboru/310x430/9a9bd0aa.webp?s=c53a519e1694368bfa6c3c836686486f382321f8",
     "datum_pridani": "2026-10-19T17:42:50.385597+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10447046151-l6148-lego-technic-axle-osie-mix-ksztaltow-90-szt?referrer=catalog": {
@@ -7302,7 +7304,7 @@
     "price": "80,00 Kč",
     "img": "https://images1.vinted.net/t/02_0258a_QZa9bhKyceRttZBF2AVPn2ZB/310x430/f271662a.webp?s=f8791ab5e2f842240e9ebf2b66c11aaeaba71d49",
     "datum_pridani": "2026-10-19T17:42:50.385597+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10442543985-koralkove-auticko?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10442543985-koralkove-auticko?referrer=catalog",
@@ -7310,7 +7312,7 @@
     "price": "25,00 Kč",
     "img": "https://images1.vinted.net/t/06_02265_qiv3Wjw9k2yUKy9WTxaoY6XB/310x430/5b9ed2f5.webp?s=dc3b35b8cb7fed87fde5cf8280ff53a6074f9dec",
     "datum_pridani": "2026-10-19T17:42:50.385597+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10442325193-lego-tehnic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10442325193-lego-tehnic?referrer=catalog",
@@ -7337,7 +7339,7 @@
     "img": "https://images1.vinted.net/t/06_01142_n2sfWxAtk5KvEFsoam1einib/310x430/d54816b3.webp?s=8be6f74c6d4cc3870d45a669d191d558f996fe12",
     "datum_pridani": "2026-10-19T17:42:50.385597+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10440630711-klocki-konstruktywne-fischer-technik?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10440630711-klocki-konstruktywne-fischer-technik?referrer=catalog",
@@ -7346,7 +7348,7 @@
     "img": "https://images1.vinted.net/t/06_00317_mE1ctixbCKSe8LxuT5ndgDph/310x430/b4d23e4b.webp?s=41cda1d79ebbf60648f7111818821ba3c2965d20",
     "datum_pridani": "2026-10-19T17:42:50.385597+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10434004188-lego-techbic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10434004188-lego-techbic?referrer=catalog",
@@ -7399,16 +7401,16 @@
     "price": "561,25 Kč",
     "img": "https://images1.vinted.net/t/05_00ce7_qjyigp2ornfXwJ1yfVnnwdKr/310x430/fc06368a.webp?s=1e4d5758ca3761df5ef7f39ba59c0aae983c8bb2",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10450893122-lego-technic-42197-backhoe-loader-bager-nakladalnik-104-kock-7-neodprt?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10450893122-lego-technic-42197-backhoe-loader-bager-nakladalnik-104-kock-7-neodprt?referrer=catalog",
     "title": "LEGO Technic 42197 Backhoe Loader (bager nakladalnik)",
-    "price": "319,25 Kč",
+    "price": "319,39 Kč",
     "img": "https://images1.vinted.net/t/01_00554_dsq3AKemKuwar9ApdsR7whnE/310x430/448973d6.webp?s=1a495ead80646a0905bd13c2052f5489372b1631",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10450362280-lego-technic-42035?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10450362280-lego-technic-42035?referrer=catalog",
@@ -7416,17 +7418,17 @@
     "price": "500,00 Kč",
     "img": "https://images1.vinted.net/t/02_0065f_C3QjerCy4MxcjH6M1EhJhJc6/310x430/9c1b7da3.webp?s=aa8f9c466db0d34dd3d26a8ba7ee34307755da2f",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10446100618-clementoni-naukowa-zabawa-laboratorium-mechaniki-maszyny-rolnicze-10w1-zestaw-bdb?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10446100618-clementoni-naukowa-zabawa-laboratorium-mechaniki-maszyny-rolnicze-10w1-zestaw-bdb?referrer=catalog",
     "title": "Clementoni Naukowa Zabawa Laboratorium Mechaniki Maszyny Rolnicze 10w1 Zestaw Bdb, Značka: Clementoni, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "169,09 Kč",
+    "price": "168,38 Kč",
     "img": "https://images1.vinted.net/t/02_00b99_mNoEm4xRSwzy3bUsR2ZpYevJ/310x430/e63fff1a.webp?s=25c7acbfed7b1258dd9d068a9b46b62aaab845dc",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10444822390-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10444822390-lego-technic?referrer=catalog",
@@ -7434,8 +7436,8 @@
     "price": "700,00 Kč",
     "img": "https://images1.vinted.net/t/05_007e8_G9e7371DtjyHCCZT57QkmpBz/310x430/4899664e.webp?s=a492efd66fc59c0736d3b6c12324ffd407f62c2b",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
-    "posledni_videno": "2026-10-22T01:44:33.818861+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10443409653-stavebnice-jumbo-prvy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10443409653-stavebnice-jumbo-prvy?referrer=catalog",
@@ -7453,7 +7455,7 @@
     "img": "https://images1.vinted.net/t/03_0096c_tTc18kBAzio7yvMfMb7JMUdV/310x430/5ef64114.webp?s=63ede0eef4214e240786d88c60101705ed3e364d",
     "datum_pridani": "2026-10-19T22:15:29.181550+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10432920107-technic-42104-zavodni-tahac?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10432920107-technic-42104-zavodni-tahac?referrer=catalog",
@@ -7506,7 +7508,7 @@
     "price": "199,00 Kč",
     "img": "https://images1.vinted.net/t/06_00800_BHhnkCnZ9d2FTnWtxPmmjvJ6/310x430/bb5f5974.webp?s=b91d4282aad4bc90332c2aba89b978766f1e081e",
     "datum_pridani": "2026-10-20T06:29:23.555767+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10445550375-mieszanka-klockow-lego?referrer=catalog": {
@@ -7534,7 +7536,7 @@
     "img": "https://images1.vinted.net/t/04_004c8_52ujWLp5Foc8qFey4mrmNDAK/310x430/54841236.webp?s=1fe288c594f0a64d29e3e70a3984dee77994f9c7",
     "datum_pridani": "2026-10-20T06:29:23.555767+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10442022874-lego-technic-42197-zadni-nakladac?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10442022874-lego-technic-42197-zadni-nakladac?referrer=catalog",
@@ -7542,8 +7544,8 @@
     "price": "200,00 Kč",
     "img": "https://images1.vinted.net/t/06_00383_g3WrBD1MuLX2GJSz1bye5q1E/310x430/c4ecebed.webp?s=78a7e40bbcfeb1e6657d90ca8ccd19d5ac58c08c",
     "datum_pridani": "2026-10-20T06:29:23.555767+00:00",
-    "posledni_videno": "2026-10-22T18:08:20.157947+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10441681247-42233-lego-technic-mighty-machines?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10441681247-42233-lego-technic-mighty-machines?referrer=catalog",
@@ -7560,7 +7562,8 @@
     "price": "120,00 Kč",
     "img": "https://images1.vinted.net/t/05_00066_ikJjFYTnPcUNei29xSUJYSuh/310x430/c1df784a.webp?s=492f8755a47f90363d8208031ba4470291ccda1b",
     "datum_pridani": "2026-10-20T06:29:23.555767+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10425850645-lego-technic-42118-monster-jam-grave-digger?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10425850645-lego-technic-42118-monster-jam-grave-digger?referrer=catalog",
@@ -7613,7 +7616,7 @@
     "price": "134,70 Kč",
     "img": "https://images1.vinted.net/t/05_01bb1_LrLXeK7yBAadf6tQ1qJiK8JA/310x430/3884cf05.webp?s=2e23dba4799fccf8a7788e4475b1da0c0a51a165",
     "datum_pridani": "2026-10-20T12:02:45.674368+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10453835969-lego-technic-klocki-skuter-sniezny-42021?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10453835969-lego-technic-klocki-skuter-sniezny-42021?referrer=catalog",
@@ -7630,7 +7633,7 @@
     "price": "89,80 Kč",
     "img": "https://images1.vinted.net/t/05_00c69_orcRMYVjq76tiMSKwZGqfSy4/310x430/62d49744.webp?s=02a105e460a62caa8ad2fd58de7b3c9153a1c21a",
     "datum_pridani": "2026-10-20T12:02:45.674368+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10447070742-lego-technic?referrer=catalog": {
@@ -7666,7 +7669,7 @@
     "price": "1490,00 Kč",
     "img": "https://images1.vinted.net/t/05_02177_Q8ELvKaGjeYQEACsbsw3Z6JP/310x430/efe56a11.webp?s=e2ea07474a8e1135775fa725171faa4f307d75a2",
     "datum_pridani": "2026-10-20T17:27:52.367813+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10460033407-klocki-cada-technic-miks-elementow-elektronika-lyzka-nie-lego?referrer=catalog": {
@@ -7681,11 +7684,11 @@
   "https://www.vinted.cz/items/10459018277-lego-technic-42150?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10459018277-lego-technic-42150?referrer=catalog",
     "title": "Lego technic 42150, Značka: LEGO Technic, Stav: Dobrý, Velikost: do 44 cm",
-    "price": "253,64 Kč",
+    "price": "252,56 Kč",
     "img": "https://images1.vinted.net/t/02_01edd_AvmAYApGVkc3gQQ9eAaseTWf/310x430/510de4b5.webp?s=1f772f0c78ba45a1acab9fb7a15c5274d7fc2b1c",
     "datum_pridani": "2026-10-20T17:27:52.367813+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10458105896-mechanicka-laborator?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10458105896-mechanicka-laborator?referrer=catalog",
@@ -7693,7 +7696,7 @@
     "price": "49,00 Kč",
     "img": "https://images1.vinted.net/t/01_01d23_2z3X24ZD12gz2cPNHEaRzz56/310x430/4a68ac02.webp?s=382fe07ff01f77b67a3d07b5bf4e914b58435e71",
     "datum_pridani": "2026-10-20T17:27:52.367813+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10457059031-stavebnice?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10457059031-stavebnice?referrer=catalog",
@@ -7701,16 +7704,16 @@
     "price": "250,00 Kč",
     "img": "https://images1.vinted.net/t/06_00c3c_8bCBHa19NtZ2Ueh9pgJRyz7H/310x430/c7700ec1.webp?s=13bdff5e27a6698478632d4f0ce0ef1fa1a9ff22",
     "datum_pridani": "2026-10-20T17:27:52.367813+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10455308991-lego-technic-42198?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10455308991-lego-technic-42198?referrer=catalog",
     "title": "Lego Technic 42198, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: 128–133 cm / 8 let",
-    "price": "319,25 Kč",
+    "price": "319,39 Kč",
     "img": "https://images1.vinted.net/t/06_00487_h5ngPxR7VgqXcAsP1XyWrydq/310x430/46bcbcb6.webp?s=4a1472698b7a23e6f3ab78b4bf8cca84cb29f27a",
     "datum_pridani": "2026-10-20T17:27:52.367813+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10412132243-lego-set-technic-space-42178?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10412132243-lego-set-technic-space-42178?referrer=catalog",
@@ -7727,7 +7730,7 @@
     "price": "555,64 Kč",
     "img": "https://images1.vinted.net/t/03_01e94_R8Ne5EceSrY7kvmmzd4yh3kz/310x430/a96f0602.webp?s=3fe54dadb5e024d5a2991efdafd6c7a39b929f2c",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10462985422-lego-technic-8872-90-roky?referrer=catalog": {
@@ -7736,7 +7739,7 @@
     "price": "2948,26 Kč",
     "img": "https://images1.vinted.net/t/05_01e6d_MC789mrUpPozWP2KqNSKCtg8/310x430/31eb0593.webp?s=806edb34f0f3c12d8153647aedc5cdeb592c218e",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10462635530-lego-technic-42060-ekipa-robot-drogowych?referrer=catalog": {
@@ -7745,7 +7748,7 @@
     "price": "449,00 Kč",
     "img": "https://images1.vinted.net/t/05_01551_iWPrt6W3dv6zWbYqw7TFez1d/310x430/2d847da2.webp?s=f2ecd7fb5fe6f920b9215c88d7ae661018e19bdd",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10462045021-lego-techniques-set-of-4?referrer=catalog": {
@@ -7754,7 +7757,7 @@
     "price": "841,88 Kč",
     "img": "https://images1.vinted.net/t/05_0056d_tN4owYPXoLRUFimibtWeGnAS/310x430/c1ffdf81.webp?s=de8401bcb426cfe8f23bb39707d07b573239832d",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10461824941-lego-technic?referrer=catalog": {
@@ -7791,7 +7794,7 @@
     "img": "https://images1.vinted.net/t/01_01de2_bYVJMUArJ3vhyot3dLkBXZbg/310x430/4442934d.webp?s=59f19c3108609f94c6a693cc091aa7523a29f35f",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10459004407-lego-42167-instrukcja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10459004407-lego-42167-instrukcja?referrer=catalog",
@@ -7800,7 +7803,7 @@
     "img": "https://images1.vinted.net/t/01_01e61_8zb53R6g7KEqAGGVv2dGB7wx/310x430/208c721f.webp?s=96dfaf69211c4f571d4725ed8f9060787bdb4bc9",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10458538712-lego-technic-42028?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10458538712-lego-technic-42028?referrer=catalog",
@@ -7817,7 +7820,7 @@
     "price": "112,25 Kč",
     "img": "https://images1.vinted.net/t/05_01449_wE9vvm72D4nuJZ21GdAniTfi/310x430/6dbcee02.webp?s=d944dc5239732af8ddc616e25f1e38456969dd96",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10456255967-lego-technic-8443-pneumatic-log-loader-1996-r?referrer=catalog": {
@@ -7827,7 +7830,7 @@
     "img": "https://images1.vinted.net/t/05_019ae_pjbLSkG4bfKJFs6TqLAxz45G/310x430/001afd50.webp?s=ae0bfef37b699d9986d481cd83029cff45b1157a",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10448410874-zestaw-lego-technic-zestaw-konstrukcyjny-idealny-na-prezent?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10448410874-zestaw-lego-technic-zestaw-konstrukcyjny-idealny-na-prezent?referrer=catalog",
@@ -7835,7 +7838,7 @@
     "price": "477,06 Kč",
     "img": "https://images1.vinted.net/t/01_0010c_3xPecJPWfra7gY8HJbTaecoF/310x430/19069e2b.webp?s=94dd75f97276feaf15b7c6bc4a7d447c4239b301",
     "datum_pridani": "2026-10-20T20:49:16.021551+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10440239162-cinske-lego-auto?referrer=catalog": {
@@ -7850,11 +7853,11 @@
   "https://www.vinted.cz/items/10463529363-zestaw-vintage-samochod-lego-technic-dune-duster-nr-8207?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10463529363-zestaw-vintage-samochod-lego-technic-dune-duster-nr-8207?referrer=catalog",
     "title": "Zestaw vintage samochód Lego Technic Dune Duster, nr 8207, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "310,00 Kč",
+    "price": "308,69 Kč",
     "img": "https://images1.vinted.net/t/04_00b18_o3cBmDefrEEcTcxUYU78ZJVB/310x430/f1260a94.webp?s=a705ffbdcd97bdecd134d8763b407c7db3d2798b",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10462974130-lego-technic-8485-90-roky?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10462974130-lego-technic-8485-90-roky?referrer=catalog",
@@ -7862,26 +7865,26 @@
     "price": "6142,21 Kč",
     "img": "https://images1.vinted.net/t/02_01a2c_tMqZkv8PCqRpPA64LATwD4CJ/310x430/bdd656fa.webp?s=a0fc5068f5e4ea994ea88d889b769ad4602dfbb7",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10461518711-lego-tegnik?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10461518711-lego-tegnik?referrer=catalog",
     "title": "Lego tegnik, Značka: LEGO Technic, Stav: Dobrý, Velikost: do 44 cm",
-    "price": "197,10 Kč",
+    "price": "196,44 Kč",
     "img": "https://images1.vinted.net/t/06_003cf_5fCQF2gbr8tEd2EmCrDy7xvX/310x430/b65b7194.webp?s=7b4119a3b533476a4d9a3839c97932ace4f598a5",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
-    "posledni_videno": "2026-10-21T19:31:37.303405+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10457905612-wywrotka-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10457905612-wywrotka-lego?referrer=catalog",
     "title": "Wywrotka lego, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "169,09 Kč",
+    "price": "168,38 Kč",
     "img": "https://images1.vinted.net/t/06_02691_3LwNRUGQNus2xyFJK5CPvnZx/310x430/7f50fa03.webp?s=db02a61d63a8d4464c661e8304b27a52a424d01a",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
-    "posledni_videno": "2026-10-22T07:26:10.599333+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10454680685-lego-42119-technik-monster-jam-max-d?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10454680685-lego-42119-technik-monster-jam-max-d?referrer=catalog",
@@ -7890,7 +7893,7 @@
     "img": "https://images1.vinted.net/t/02_01803_yfUtUEKQ6T7yEFNSJYaX7yYR/310x430/bc425d3d.webp?s=e511111c15d9062b7fd5da89a9294ef0a4213973",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10449480212-lego-electric-motor-45v-type-1-for-2-prong-connectors-without-middle-pin-item-no-6216m1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10449480212-lego-electric-motor-45v-type-1-for-2-prong-connectors-without-middle-pin-item-no-6216m1?referrer=catalog",
@@ -7904,11 +7907,11 @@
   "https://www.vinted.cz/items/10445131019-robot-pohyblivy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10445131019-robot-pohyblivy?referrer=catalog",
     "title": "Robot pohyblivý, Značka: Eddy Toys, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "90,00 Kč",
+    "price": "70,00 Kč",
     "img": "https://images1.vinted.net/t/02_008cd_SCvLHq3wYGraubtKQ5f5wrtx/310x430/c8db35f1.webp?s=7010f8b026deef47af7ad7f2f54eb2c105ce503e",
     "datum_pridani": "2026-10-20T23:46:56.859410+00:00",
-    "posledni_videno": "2026-10-21T19:31:37.303405+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10443982547-lego-technic-koparka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10443982547-lego-technic-koparka?referrer=catalog",
@@ -7953,7 +7956,7 @@
     "img": "https://images1.vinted.net/t/06_01c97_y2TPBA8UXNwypFBDur72raRe/310x430/3e0c2795.webp?s=7eca0bc164e70bc45ec22cf31d854c28796fa63d",
     "datum_pridani": "2026-10-21T04:24:55.537924+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10457578328-lego-technic-42233?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10457578328-lego-technic-42233?referrer=catalog",
@@ -8003,20 +8006,20 @@
   "https://www.vinted.cz/items/10466503200-lego-technic-42164-wyscigowy-lazik-terenowy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10466503200-lego-technic-42164-wyscigowy-lazik-terenowy?referrer=catalog",
     "title": "LEGO Technic 42164 Wyścigowy łazik terenowy, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: 110–115 cm / 5 let",
-    "price": "248,00 Kč",
+    "price": "246,95 Kč",
     "img": "https://images1.vinted.net/t/02_00e74_ArbqNmjWrPrEibtHjVTnLHQM/310x430/6a39ef7c.webp?s=a87bc9f8e8d3ff4f98a0d9757f016978cf06e0c5",
     "datum_pridani": "2026-10-21T09:32:49.450109+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10466475120-zestaw-lego-technic-42047-radiowoz-poscigowy-police-interceptor?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10466475120-zestaw-lego-technic-42047-radiowoz-poscigowy-police-interceptor?referrer=catalog",
     "title": "Zestaw Lego Technic 42047 Radiowóz pościgowy Police Interceptor, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "422,73 Kč",
+    "price": "420,94 Kč",
     "img": "https://images1.vinted.net/t/06_012e4_JSqpy8xrfEqpDFhmriGHY6xR/310x430/3615b65d.webp?s=a9b666abbfe12ad081c893bfa7f466b8f65a5428",
     "datum_pridani": "2026-10-21T09:32:49.450109+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10457578328-lego-technic-42233-minifigures?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10457578328-lego-technic-42233-minifigures?referrer=catalog",
@@ -8051,7 +8054,7 @@
     "price": "477,06 Kč",
     "img": "https://images1.vinted.net/t/01_02207_BnAxiqCbrv5sEymYbeGZbTeZ/310x430/a376acbb.webp?s=91ea22b93db7ae397f198939e1e63756594ac94b",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10471759579-figurki-i-klocki-lego?referrer=catalog": {
@@ -8069,8 +8072,8 @@
     "price": "299,00 Kč",
     "img": "https://images1.vinted.net/t/02_015d0_5B6xPtY9AHaGQcoBQz3EaJYG/310x430/3f2f69dd.webp?s=da684a4dbef3218ff57c253df5b4276db2ee1049",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10471243347-klocki-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471243347-klocki-lego-technic?referrer=catalog",
@@ -8087,7 +8090,7 @@
     "price": "700,00 Kč",
     "img": "https://images1.vinted.net/t/06_0139a_dv65euwcQQgybyVb28gxDB3u/310x430/a5a42c21.webp?s=83665b18280fccce58eea80b8411332c45fdcd44",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10470937604-lego-city-speed-champions-technic-mix-sporo-nowych-11kg?referrer=catalog": {
@@ -8096,7 +8099,7 @@
     "price": "2694,01 Kč",
     "img": "https://images1.vinted.net/t/06_004ff_Y7jRZqsyKiPyiWz2CVKDidXq/310x430/7b86586a.webp?s=6015dfe537496ed20878fb6eeb15ea6f01eadba3",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10470528110-lego-mix-3kg?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10470528110-lego-mix-3kg?referrer=catalog",
@@ -8113,7 +8116,7 @@
     "price": "392,88 Kč",
     "img": "https://images1.vinted.net/t/01_009cb_FW6TNKCELKoXDuGtNtUcCRHz/310x430/2b790030.webp?s=2de8d91987706d30c4d1c3e5e9c33ee4b2555cd4",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10468726440-lego-poszer-4-db-elado?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10468726440-lego-poszer-4-db-elado?referrer=catalog",
@@ -8130,7 +8133,7 @@
     "price": "450,00 Kč",
     "img": "https://images1.vinted.net/t/01_005fc_kwYy6hRqV9GYxKUR7diAxeqN/310x430/2b3f5ea6.webp?s=acc31efbdca0d09d24625413841baaf147106303",
     "datum_pridani": "2026-10-21T15:02:46.163943+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10466605797-lego-kombajn-john-deere?referrer=catalog": {
@@ -8157,8 +8160,8 @@
     "price": "300,00 Kč",
     "img": "https://images1.vinted.net/t/01_019ca_zQnNkQ9PjrXF9aesWizFjLBJ/310x430/c5c9c09b.webp?s=1e8c2a483bcdc4bfbca6245642a6d011d657360f",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10476298799-lego-technic-truck-4x4?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10476298799-lego-technic-truck-4x4?referrer=catalog",
@@ -8167,7 +8170,7 @@
     "img": "https://images1.vinted.net/t/06_0104a_1oo1yeCnB7vtf5BANw25RT8d/310x430/9c3eecbc.webp?s=6ade924a7407e997ed53106c6e34f85dc5db49ef",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10475054912-4-zestawy-maly-konstruktor?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10475054912-4-zestawy-maly-konstruktor?referrer=catalog",
@@ -8184,35 +8187,35 @@
     "price": "500,00 Kč",
     "img": "https://images1.vinted.net/t/06_0110c_9vcbAxNbPiLqg6ARrLag2Tmd/310x430/acb7ab61.webp?s=daf6b9a95ed0efc9f13b416c9af15f6b9de2b15e",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10472796882-lego-technic-8271-ladowarka-kolowa-rowniarka-2w1-instrukcje?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10472796882-lego-technic-8271-ladowarka-kolowa-rowniarka-2w1-instrukcje?referrer=catalog",
     "title": "LEGO Technic 8271 Ładowarka Kołowa / Równiarka 2w1 + Instrukcje, Značka: LEGO, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "676,37 Kč",
+    "price": "673,50 Kč",
     "img": "https://images1.vinted.net/t/05_01e6c_YjDAiXq48ySd7vc6jWmRMnRL/310x430/10deab25.webp?s=74bff33e0a144675494a0cf4a71afd0912738d4b",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10472347586-42078-lego-technik-mack-kamion?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10472347586-42078-lego-technik-mack-kamion?referrer=catalog",
     "title": "42078 Lego Technik Mack kamion, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "4591,86 Kč",
+    "price": "4565,01 Kč",
     "img": "https://images1.vinted.net/t/02_00acf_pNpzKuDzoYd9vwJ7QBatG47J/310x430/d23eb673.webp?s=8273e1f99afd760eadcba4287b72504aca0b185d",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-21T23:09:56.906374+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10471673150-lego-technic-8065-mini-container-truck-mini-kontenerszallito-teherauto-2-db-utmutatoval?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471673150-lego-technic-8065-mini-container-truck-mini-kontenerszallito-teherauto-2-db-utmutatoval?referrer=catalog",
     "title": "LEGO Technic 8065 Mini Container Truck – mini konténerszállító teherautó",
-    "price": "383,31 Kč",
+    "price": "308,74 Kč",
     "img": "https://images1.vinted.net/t/02_00ee2_aeiAVRdYjLSBYQUBbdnC6GQz/310x430/be495ae8.webp?s=33b4e279f22964eccc81a09e29c19bce8f0bbe88",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10471431501-stavebnice-lego-technic-monster-jam-megalodon?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471431501-stavebnice-lego-technic-monster-jam-megalodon?referrer=catalog",
@@ -8220,8 +8223,8 @@
     "price": "549,00 Kč",
     "img": "https://images1.vinted.net/t/03_01c09_NNLJGjMtWXo4DSzqb7yTcNDf/310x430/f3e89f0b.webp?s=1d2a6b58e711e2db080dde47200d1c77db72d66c",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10471083628-lego-technic-42090-utek-v-terenaku?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471083628-lego-technic-42090-utek-v-terenaku?referrer=catalog",
@@ -8229,26 +8232,26 @@
     "price": "590,00 Kč",
     "img": "https://images1.vinted.net/t/02_0245b_xcHJ1qCxG9sF4qg8jHj9Q6MR/310x430/b117c097.webp?s=1444a19c7b35d3ece99ff769e88e6581d7237f02",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10471006741-klocki-lego-technic-42034-quad?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471006741-klocki-lego-technic-42034-quad?referrer=catalog",
     "title": "Klocki lego technic 42034 quad, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: 128–133 cm / 8 let",
-    "price": "535,46 Kč",
+    "price": "533,19 Kč",
     "img": "https://images1.vinted.net/t/01_0093b_z4UP1QnY2HLtKkrGMb63gq7o/310x430/0e17a92c.webp?s=fa590245acf8d36a6c0d7496b645bffb1380a2a0",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10470199145-fischertechnik-533872-kolejka-kulowa-dynamic-m?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10470199145-fischertechnik-533872-kolejka-kulowa-dynamic-m?referrer=catalog",
     "title": "Fischertechnik 533872 Kolejka Kulowa Dynamic M, Značka: fischertechnik, Stav: Nový s visačkou, Velikost: 98–103 cm / 3 roky",
-    "price": "1014,55 Kč",
+    "price": "1010,25 Kč",
     "img": "https://images1.vinted.net/t/02_0100b_CMXtGbBGiVD6Q4roitaKsTPo/310x430/1ed86833.webp?s=99f67d4d7b68833d8d9f4c04bf25d3fd249ffc9a",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10467867895-lego-technic-412504-excavator-paper-bag?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10467867895-lego-technic-412504-excavator-paper-bag?referrer=catalog",
@@ -8256,34 +8259,34 @@
     "price": "123,48 Kč",
     "img": "https://images1.vinted.net/t/05_02385_WNbCP6QRZXikpTy1jEAcC5xH/310x430/1d7695bd.webp?s=f9af9ff09f1bdca2865d61961e0e64d1c4f3dd7d",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10460126216-klocki-firmy-clics-hero?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10460126216-klocki-firmy-clics-hero?referrer=catalog",
     "title": "Klocki firmy clics hero, Značka: Clics, Stav: Velmi dobrý, Velikost: 116–121 cm / 6 let",
-    "price": "704,55 Kč",
+    "price": "701,57 Kč",
     "img": "https://images1.vinted.net/t/03_00c55_Y4oB19MvjGHsyCMCPyA9skXK/310x430/3899aded.webp?s=6ace2a6e3ba5639b9961c73987add7922e107dea",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-22T18:08:20.157947+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10455475728-lego-4-auta-plus-gratisy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10455475728-lego-4-auta-plus-gratisy?referrer=catalog",
     "title": "Lego 4 auta plus gratisy, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: S",
-    "price": "563,64 Kč",
+    "price": "561,25 Kč",
     "img": "https://images1.vinted.net/t/02_02610_RGiorZNtD7gZ3oTmdAoq8fnU/310x430/87bb8757.webp?s=fcbf5bd223726160eafa2fe85bd669bc206cfcdf",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-22T18:08:20.157947+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10440275155-lego-kocke?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10440275155-lego-kocke?referrer=catalog",
     "title": "Lego kocke, Značka: LEGO Technic, Stav: Nový s visačkou, Velikost: Univerzální",
-    "price": "614,75 Kč",
+    "price": "614,22 Kč",
     "img": "https://images1.vinted.net/t/06_01024_yuerBnuyNW7cFRP3opQFRqFf/310x430/78f82ae3.webp?s=d131c087f5e79958bde6b12dadc70f8e59560573",
     "datum_pridani": "2026-10-21T19:31:37.303405+00:00",
-    "posledni_videno": "2026-10-21T23:09:56.906374+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10425281519-klocki-clics?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10425281519-klocki-clics?referrer=catalog",
@@ -8318,7 +8321,7 @@
     "price": "417,67 Kč",
     "img": "https://images1.vinted.net/t/05_01a53_zGdmmDrJPwWNBU4AG5mbXXUp/310x430/b5266c58.webp?s=2798eeac713872588e749884bc61e746f08fd68d",
     "datum_pridani": "2026-10-21T23:09:56.906374+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10472292297-42102-claas-traktor?referrer=catalog": {
@@ -8327,17 +8330,17 @@
     "price": "201,40 Kč",
     "img": "https://images1.vinted.net/t/06_026bb_Yz3nMmGAHQwV5wFDHypHhnEM/310x430/7d997227.webp?s=5af6873481174867f0120418ad03c79e38b9302f",
     "datum_pridani": "2026-10-21T23:09:56.906374+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10460466961-lego-technic-42027-desert-racer-pudelko-instrukcja?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10460466961-lego-technic-42027-desert-racer-pudelko-instrukcja?referrer=catalog",
     "title": "LEGO Technic 42027 Desert Racer – pudełko + instrukcja, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "50,68 Kč",
+    "price": "50,51 Kč",
     "img": "https://images1.vinted.net/t/02_0134f_Q8SjpEok2Z4xRu3uqKC4TWRc/310x430/cd04098f.webp?s=64005aec3672bb7e571cf7c07f33a9bde961edb1",
     "datum_pridani": "2026-10-21T23:09:56.906374+00:00",
-    "posledni_videno": "2026-10-21T23:09:56.906374+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10473757150-lego-technik?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10473757150-lego-technik?referrer=catalog",
@@ -8355,7 +8358,7 @@
     "img": "https://images1.vinted.net/t/02_01178_HC3vMb8rcpEHq9hMMvKSmVxf/310x430/7a5f7d01.webp?s=462b72ecc12c1d24710705d7e050c2ecc6497bb3",
     "datum_pridani": "2026-10-22T01:44:33.818861+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10470391174-lego-42045-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10470391174-lego-42045-lego-technic?referrer=catalog",
@@ -8373,7 +8376,7 @@
     "img": "https://images1.vinted.net/t/06_01f63_U16L7pwfYZq1fdCfeWvXzTP1/310x430/aff21d2f.webp?s=d7983f8795febc4f59a70b5e2f82eb76c1be1265",
     "datum_pridani": "2026-10-22T01:44:33.818861+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10468754260-lego-volvo?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10468754260-lego-volvo?referrer=catalog",
@@ -8381,7 +8384,8 @@
     "price": "121,00 Kč",
     "img": "https://images1.vinted.net/t/02_01b39_qkzUesAGjS4ZPPC8FC8cHsLY/310x430/25729c9e.webp?s=8de8560994e10a2294a9d136d2c8f01f7927a457",
     "datum_pridani": "2026-10-22T01:44:33.818861+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10454950613-legoland-fabrik-2018-kosticka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10454950613-legoland-fabrik-2018-kosticka?referrer=catalog",
@@ -8404,11 +8408,11 @@
   "https://www.vinted.cz/items/10476512087-skladacka-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10476512087-skladacka-auto?referrer=catalog",
     "title": "Skladacka auto, Stav: Nový bez visačky, Velikost: do 44 cm",
-    "price": "245,33 Kč",
+    "price": "245,44 Kč",
     "img": "https://images1.vinted.net/t/02_01a69_zPxSqUUMqaViJQ9fz3aCNwx2/310x430/709e9c89.webp?s=20fa643b249a82ab75f52e84154ac3991f05543a",
     "datum_pridani": "2026-10-22T07:26:10.599333+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10474602602-lego-technic-dzwig?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10474602602-lego-technic-dzwig?referrer=catalog",
@@ -8462,7 +8466,7 @@
     "img": "https://images1.vinted.net/t/06_01a1e_Do4Bn8qxm4hVUwxLwaZJxQ2H/310x430/dbc5fae2.webp?s=c7386e9298a2a8d581e515243ebade3db698b5f6",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10481871329-lego-rozne-rodzaje-technic-frends-mix?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10481871329-lego-rozne-rodzaje-technic-frends-mix?referrer=catalog",
@@ -8470,7 +8474,7 @@
     "price": "224,50 Kč",
     "img": "https://images1.vinted.net/t/01_004d3_G95UpXYaBiXVauFMkTTWTynr/310x430/93b4aecd.webp?s=19a3614ad30fd971a29a3d0b2861580bc06348a3",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10481174105-casopis-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10481174105-casopis-lego-technic?referrer=catalog",
@@ -8478,7 +8482,7 @@
     "price": "109,00 Kč",
     "img": "https://images1.vinted.net/t/02_01cfc_8kfrfU3ypss69QfQiKhSmj3n/310x430/29111181.webp?s=a445a9ba6c63f3886c058e6e540e23ff3132dd09",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10480270953-legic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10480270953-legic?referrer=catalog",
@@ -8486,7 +8490,7 @@
     "price": "245,69 Kč",
     "img": "https://images1.vinted.net/t/04_01d33_nCU4GdFEQQ8UcQpUj4vNTJxM/310x430/6487c632.webp?s=be63cad922495c0fcbf817df3298d945b081eb5f",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10479714545-lego-technic?referrer=catalog": {
@@ -8496,7 +8500,7 @@
     "img": "https://images1.vinted.net/t/02_02054_719WgZmF3eQtNeEhizScq2YL/310x430/860092b1.webp?s=a203675d103f44ffc8fcf6f1b2dfa03fa2e5bfdf",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10471985193-zestaw-edukacyjny-fischertechnik-profi-e-tronic-nr-559883t-559883?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10471985193-zestaw-edukacyjny-fischertechnik-profi-e-tronic-nr-559883t-559883?referrer=catalog",
@@ -8505,7 +8509,7 @@
     "img": "https://images1.vinted.net/t/01_00818_vF96b4H5iQ9kMTXr7HVSpj4J/310x430/9203cc8f.webp?s=70a1d03a76b619fbceb225c9a210a718ea1d0eea",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10472080076-fischertechnik-zestaw-do-budowy-dynamic-l2?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10472080076-fischertechnik-zestaw-do-budowy-dynamic-l2?referrer=catalog",
@@ -8514,7 +8518,7 @@
     "img": "https://images1.vinted.net/t/05_01228_b6aueWwFRGwZChhh5uLGbv6E/310x430/55747cc0.webp?s=2e0a2a074b89898f3eb0cecffc46f26ff393a70b",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10472014023-laboratorium-mechaniki-samoloty-i-helikoptery-klocki-clementoni?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10472014023-laboratorium-mechaniki-samoloty-i-helikoptery-klocki-clementoni?referrer=catalog",
@@ -8523,7 +8527,7 @@
     "img": "https://images1.vinted.net/t/02_0119d_FHqGWfYsKdbC8XJDGwo7LHaJ/310x430/9de98a43.webp?s=4f27d272c4eb3908930a1160c626bb838fb31011",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10467362787-klocki-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10467362787-klocki-lego-technic?referrer=catalog",
@@ -8532,7 +8536,7 @@
     "img": "https://images1.vinted.net/t/06_00a2c_UD3hPsdGHpmmEh5xpfUZuu44/310x430/fcb1a923.webp?s=cc0de537e8d1bca373ed1385defa705c9549e8de",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10467026347-lego-technic-samolot-samolot-ultralekki-42057?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10467026347-lego-technic-samolot-samolot-ultralekki-42057?referrer=catalog",
@@ -8541,7 +8545,7 @@
     "img": "https://images1.vinted.net/t/02_0270c_d2g5xdYgDLUtHQ8hohcZygZ2/310x430/70db0224.webp?s=d39bf7a58403638eda872d8b52d639a4a413faa7",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10460462233-lego-technic-set-42068-letistni-special-42075-zachranne-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10460462233-lego-technic-set-42068-letistni-special-42075-zachranne-auto?referrer=catalog",
@@ -8550,7 +8554,7 @@
     "img": "https://images1.vinted.net/t/05_01a56_FrubUkBJLJzokNNRp3BYsrUk/310x430/6e59c4de.webp?s=454864e6b69b62419e9c2bc77a37452d1a987a1c",
     "datum_pridani": "2026-10-22T13:09:01.453425+00:00",
     "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
-    "nedostupne": false
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10488428366-zestaw-lego-technic-42026-7?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10488428366-zestaw-lego-technic-42026-7?referrer=catalog",
@@ -8564,11 +8568,11 @@
   "https://www.vinted.cz/items/10488140282-lego-technic-8445-indy-racer-bolid-f1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10488140282-lego-technic-8445-indy-racer-bolid-f1?referrer=catalog",
     "title": "LEGO Technic 8445 – Indy Racer / Bolid F1, Značka: LEGO Technic, Stav: Dobrý, Velikost: Univerzální",
-    "price": "845,46 Kč",
+    "price": "841,88 Kč",
     "img": "https://images1.vinted.net/t/02_01f42_28XYfoUdDKEtiTsFepKpwFTN/310x430/54dcc0b5.webp?s=80bb632de6741ac90d3053566657b79ce2172e9a",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10486663130-lego-technique?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10486663130-lego-technique?referrer=catalog",
@@ -8594,7 +8598,7 @@
     "price": "280,63 Kč",
     "img": "https://images1.vinted.net/t/06_00629_pVAdwEwK2GdxbKPdfJwQM75t/310x430/f4a74fe9.webp?s=846a42b48b9c9bd0fbe17dde28e165beb3303962",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10484708587-lego-technic-stroje?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10484708587-lego-technic-stroje?referrer=catalog",
@@ -8602,25 +8606,25 @@
     "price": "491,38 Kč",
     "img": "https://images1.vinted.net/t/02_00bbf_NYdXN1qeV41aUU4oKabpBPCD/310x430/64ba1964.webp?s=6f3f5a51ce3bc7b758f150504d3c76eac023ebdf",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10483934129-lego-technic-42102-mini-claas-xerion?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10483934129-lego-technic-42102-mini-claas-xerion?referrer=catalog",
     "title": "LEGO Technic 42102 Mini Claas Xerion, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "169,09 Kč",
+    "price": "168,38 Kč",
     "img": "https://images1.vinted.net/t/06_0243a_Cye2E2SaPcJnNpV3jHk88XSM/310x430/974f8cbb.webp?s=2334dda1e5e3d91f8a63d60afda861a6a71e2929",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10483571183-bundle-lego-peste-2-kg-100-original-figurine?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10483571183-bundle-lego-peste-2-kg-100-original-figurine?referrer=catalog",
     "title": "Bundle lego peste 2 kg 100% original +figurine, Značka: LEGO, Stav: Velmi dobrý, Velikost: do 44 cm",
-    "price": "758,81 Kč",
+    "price": "758,18 Kč",
     "img": "https://images1.vinted.net/t/04_00ba6_ENeHW4Y1Y3L5QzYNUCW31xEo/310x430/7e63ce6e.webp?s=680987b180f8c37eafbb01ddec577cda34a30420",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10482789644-lego-technic-42197?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10482789644-lego-technic-42197?referrer=catalog",
@@ -8634,11 +8638,11 @@
   "https://www.vinted.cz/items/10477398902-lego-pakiet-mix-elementy-kola-etc-stare-klocki?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10477398902-lego-pakiet-mix-elementy-kola-etc-stare-klocki?referrer=catalog",
     "title": "Lego pakiet mix elementy Koła etc stare klocki, Značka: LEGO, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "163,45 Kč",
+    "price": "162,76 Kč",
     "img": "https://images1.vinted.net/t/06_00633_42gKLmvxVwp542HGPyNRsJo2/310x430/eac63d8d.webp?s=e56a923c505e292d32e4d9286fc52d11edb5a0a1",
     "datum_pridani": "2026-10-22T18:08:20.157947+00:00",
-    "posledni_videno": "2026-10-22T21:52:47.893728+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10475513384-lego-technic-42133?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10475513384-lego-technic-42133?referrer=catalog",
@@ -8673,7 +8677,7 @@
     "price": "331,14 Kč",
     "img": "https://images1.vinted.net/t/06_018e4_NbAZ56MvZ6J3yUG58R2YmKpe/310x430/001b792e.webp?s=01ae9721b7643f70422cdf77faf740f00e3cebf8",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
     "nedostupne": false
   },
   "https://www.vinted.cz/items/10488813347-lego-vrac-5-kg?referrer=catalog": {
@@ -8691,7 +8695,8 @@
     "price": "336,75 Kč",
     "img": "https://images1.vinted.net/t/06_02551_wLN1n8TbinJmXSMcQfh6SCHY/310x430/63c81990.webp?s=abd07918133e7712abd08af44e6bd7c05e0bcc58",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10487206847-lego-42233-mighty-machines-15-sztuk?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10487206847-lego-42233-mighty-machines-15-sztuk?referrer=catalog",
@@ -8717,7 +8722,7 @@
     "price": "4000,00 Kč",
     "img": "https://images1.vinted.net/t/02_0123b_8LeZe3FnC8XL3t4ZPdFktBLB/310x430/bff3f170.webp?s=ccf35ae18245daf03e67f1895a55b8b1ddc57416",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10486530759-lego-technik-nakladac-42133?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10486530759-lego-technik-nakladac-42133?referrer=catalog",
@@ -8725,16 +8730,16 @@
     "price": "150,00 Kč",
     "img": "https://images1.vinted.net/t/05_02345_KAwAAhJamgbyxAgDpm73vKBW/310x430/5b15de73.webp?s=f36d35ef155551293f88701be74f871de64c57bd",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10486096802-lego-42178-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10486096802-lego-42178-technic?referrer=catalog",
     "title": "Lego 42178 technic, Značka: LEGO, Stav: Velmi dobrý, Velikost: Univerzální",
-    "price": "338,18 Kč",
+    "price": "336,75 Kč",
     "img": "https://images1.vinted.net/t/06_022d3_euGBjxhRkWBrQPoLus5CUt6W/310x430/ae111082.webp?s=ecd3773c85d9fa9f266a5485788234d3cde14d01",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10485604705-helikoptera-mini-skladacka?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10485604705-helikoptera-mini-skladacka?referrer=catalog",
@@ -8742,7 +8747,7 @@
     "price": "24,57 Kč",
     "img": "https://images1.vinted.net/t/05_023e9_MVSPm9omWGFTzFYCaXDFWBjJ/310x430/d9edfaa0.webp?s=8620b724922019d2b559f7a1ffd5f7609f9101e8",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10485257515-lego-technic?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10485257515-lego-technic?referrer=catalog",
@@ -8750,7 +8755,8 @@
     "price": "982,75 Kč",
     "img": "https://images1.vinted.net/t/06_01d91_JCajYXMEk975vjHJdrr27KJB/310x430/f4a474cc.webp?s=79a705501b03f9d7e9e1f824e82858699aecd88a",
     "datum_pridani": "2026-10-22T21:52:47.893728+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10484832013-lego-klocki?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10484832013-lego-klocki?referrer=catalog",
@@ -8794,7 +8800,7 @@
     "price": "449,00 Kč",
     "img": "https://images1.vinted.net/t/02_006bd_P8ZAVVVB5HPwF5W47MmjpDq8/310x430/7e109bb9.webp?s=2fe10328b5123e5e3790d241c974346817b7d90d",
     "datum_pridani": "2026-10-23T00:31:19.842826+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10491123035-lego-technic-mix-zestawow-grave-digger-oraz-wozek-widlowy?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10491123035-lego-technic-mix-zestawow-grave-digger-oraz-wozek-widlowy?referrer=catalog",
@@ -8802,7 +8808,7 @@
     "price": "252,56 Kč",
     "img": "https://images1.vinted.net/t/01_015a9_AhBerv3GktvoW5N8DXjjfMvE/310x430/e2404ccb.webp?s=a9783461b45123655985c3ef756160cfee52d513",
     "datum_pridani": "2026-10-23T00:31:19.842826+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   },
   "https://www.vinted.cz/items/10489468509-lego-technic-42150-monster-jam-monster-mutt-dalmatian-2w1?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10489468509-lego-technic-42150-monster-jam-monster-mutt-dalmatian-2w1?referrer=catalog",
@@ -8810,7 +8816,8 @@
     "price": "392,88 Kč",
     "img": "https://images1.vinted.net/t/05_00feb_3TdivxEuCfFPnbavDkaGFmaB/310x430/5abc27c3.webp?s=001c2b253987a49138990ec2597ae2e6edcc9145",
     "datum_pridani": "2026-10-23T00:31:19.842826+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10488253865-lego-technic-velke-policajne-auto?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10488253865-lego-technic-velke-policajne-auto?referrer=catalog",
@@ -8824,11 +8831,11 @@
   "https://www.vinted.cz/items/10486018710-lego-technic-42106-stunt-show-truck-and-bike?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10486018710-lego-technic-42106-stunt-show-truck-and-bike?referrer=catalog",
     "title": "Lego Technic 42106 - Stunt Show Truck and Bike, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: M",
-    "price": "1008,87 Kč",
+    "price": "1006,99 Kč",
     "img": "https://images1.vinted.net/t/02_01ec5_Qpi6Np3TAidv3yhmhDZKEv6w/310x430/5e57a1bd.webp?s=604a750cc2d41ecc490dec133e0977ad50ea645b",
     "datum_pridani": "2026-10-23T00:31:19.842826+00:00",
-    "posledni_videno": "2026-10-23T00:31:19.842826+00:00",
-    "nedostupne": true
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00",
+    "nedostupne": false
   },
   "https://www.vinted.cz/items/10482947098-lego-technic-monster?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10482947098-lego-technic-monster?referrer=catalog",
@@ -8854,7 +8861,8 @@
     "price": "449,00 Kč",
     "img": "https://images1.vinted.net/t/05_01101_D5274hzAtpprag4M3ekRxGcG/310x430/5e022d42.webp?s=5244663fe7d5b6fc04e76f14ba4d32eb9de0f5b6",
     "datum_pridani": "2026-10-23T05:54:21.965954+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10488370495-lego-technic-42084-hakovy-nakladac?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10488370495-lego-technic-42084-hakovy-nakladac?referrer=catalog",
@@ -8862,7 +8870,8 @@
     "price": "500,00 Kč",
     "img": "https://images1.vinted.net/t/06_0183f_DzdAHvyqf4WtDFiMXKpQPshn/310x430/1ba904c1.webp?s=c33c2735783951c9b3d8dc4e6bd7aa030058bf33",
     "datum_pridani": "2026-10-23T05:54:21.965954+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10488015305-cinske-lego?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10488015305-cinske-lego?referrer=catalog",
@@ -8870,7 +8879,8 @@
     "price": "73,71 Kč",
     "img": "https://images1.vinted.net/t/06_0099b_8JBKcfYXVi87s9p5i9vN1HsV/310x430/a72f4afc.webp?s=51024f5b1f9e18e67fb06188639dbb3c06ff063f",
     "datum_pridani": "2026-10-23T05:54:21.965954+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
   },
   "https://www.vinted.cz/items/10432674917-lego-technic-42233-7?referrer=catalog": {
     "url": "https://www.vinted.cz/items/10432674917-lego-technic-42233-7?referrer=catalog",
@@ -8878,6 +8888,63 @@
     "price": "140,31 Kč",
     "img": "https://images1.vinted.net/t/05_021d8_k5ajMMdBoEkSdfnxQyiZd2Zu/310x430/fe8339ef.webp?s=8553c6950dadaf53402cd5cf9639e39525645850",
     "datum_pridani": "2026-10-23T05:54:21.965954+00:00",
-    "posledni_videno": "2026-10-23T05:54:21.965954+00:00"
+    "posledni_videno": "2026-10-23T05:54:21.965954+00:00",
+    "nedostupne": true
+  },
+  "https://www.vinted.cz/items/10495012800-lego-technic-412401-wrecking-ball-crane-paper-bag?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10495012800-lego-technic-412401-wrecking-ball-crane-paper-bag?referrer=catalog",
+    "title": "Lego Technic 412401 Wrecking Ball Crane paper bag, Značka: LEGO Technic, Stav: Velmi dobrý, Velikost: Univerzální",
+    "price": "123,48 Kč",
+    "img": "https://images1.vinted.net/t/01_0221b_SXge9C8kpEq6PxhAcGnaWf44/310x430/5502cb99.webp?s=2c8e6c7e704b00ce17c742b4fbe389443738c62c",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10494182258-legok-nagyon-jo-allapotban?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10494182258-legok-nagyon-jo-allapotban?referrer=catalog",
+    "title": "Legók nagyon jó állapotban, Značka: LEGO, Stav: Velmi dobrý, Velikost: S",
+    "price": "268,53 Kč",
+    "img": "https://images1.vinted.net/t/06_004d3_rr3z1YCJxwiq7UDcVj767EqZ/310x430/d500260d.webp?s=0cc290f386a322cad8fb2834a624726ae392d9e0",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10492801821-klocki-bolid-f1-ferrari-sf24-1369-pcs-zestaw-klockow-kompatybilnych-z-lego?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10492801821-klocki-bolid-f1-ferrari-sf24-1369-pcs-zestaw-klockow-kompatybilnych-z-lego?referrer=catalog",
+    "title": "Klocki bolid f1 ferrari sf24 1369 pcs zestaw klockow kompatybilnych z lego, Značka: Technic, Stav: Nový bez visačky, Velikost: Univerzální",
+    "price": "1245,98 Kč",
+    "img": "https://images1.vinted.net/t/04_020b0_qA6oEbKkYEEgwMVhqqydcUnB/310x430/fddf0709.webp?s=7a06892c45c98be22c69671078142ed40c8052d7",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10493314110-lego-technic?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10493314110-lego-technic?referrer=catalog",
+    "title": "lego technic, Značka: LEGO Technic, Stav: Nový s visačkou, Velikost: do 44 cm",
+    "price": "122,84 Kč",
+    "img": "https://images1.vinted.net/t/04_01cff_y72YG8tBPGf3WrsAbhCupM7H/310x430/4f475b0b.webp?s=97fa77d07621fcc16680f3ecf02f8f7a43017383",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10488815514-klocki-do-skladania?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10488815514-klocki-do-skladania?referrer=catalog",
+    "title": "Klocki do składania, Značka: Clementoni, Stav: Dobrý, Velikost: do 44 cm",
+    "price": "196,44 Kč",
+    "img": "https://images1.vinted.net/t/05_01ae4_jZVkzQKhBzuRDcZVqYxCZjs7/310x430/e57664b8.webp?s=ae26f74982f9b7caa42cb923976459d11c71446f",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10488483344-zestaw-clementoni-monster-truck-pelny-zestaw-nieuzywany-instrukcja-i-pudelko?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10488483344-zestaw-clementoni-monster-truck-pelny-zestaw-nieuzywany-instrukcja-i-pudelko?referrer=catalog",
+    "title": "Zestaw clementoni monster truck pełny zestaw nieuzywany +instrukcja i pudelko, Značka: Clementoni, Stav: Nový s visačkou, Velikost: 62–67 cm / 3–6 měsíců",
+    "price": "252,56 Kč",
+    "img": "https://images1.vinted.net/t/06_00833_12B4vv1GjdjLLzf26CyvWWjo/310x430/4edba2e4.webp?s=a6e96b8171a97d8b676221faae30ddb64e7fc0ca",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
+  },
+  "https://www.vinted.cz/items/10488417893-30ks-lega-ruzne-bez-krabic?referrer=catalog": {
+    "url": "https://www.vinted.cz/items/10488417893-30ks-lega-ruzne-bez-krabic?referrer=catalog",
+    "title": "30ks Lega různé bez krabic, Značka: LEGO, Stav: Dobrý, Velikost: Univerzální",
+    "price": "6677,00 Kč",
+    "img": "https://images1.vinted.net/t/01_000f7_jzcaPdT1fUcnvqcQG7h3XoPB/310x430/24858bb8.webp?s=14238ca6ce32a152527743d8c521c7d4e2508424",
+    "datum_pridani": "2026-10-23T11:26:35.517002+00:00",
+    "posledni_videno": "2026-10-23T11:26:35.517002+00:00"
   }
 }
